@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/db/mkscript_scripted_subtitles.loc		
+scripted_subtitles_localised_text_Att.SB.LN.Intro_01	Лас Навас де Толоса, Андалусія, 1212 рік	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_02	Халіф Альмохадів почав вторгнення в Іспанію, результатом чого стало утворення християнської коаліції, що поставила за мету зупинити його.	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_03	Після нетривалої маневреної війни, армії Альмохадів і християн зустрілися на полях Лас Навас де Толоса.	true
+scripted_subtitles_localised_text_Att.SB.LN.Intro_04	Обидві сторони розуміють, що доля Іспанії буде вирішуватися в цій битві.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_01	Папа Римський оголосив початок хрестового походу на Каїр і закликав всіх праведних католицьких християн взяти на себе хрест.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_02	Його Святість сподівається, що підкорення Єгипту послужить початком повернення християнам всієї решти Святої землі.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03	Тепер вам належить зробити вибір. Якщо ви візьмете участь у хрестовому поході, то можете розраховувати на прихильність Папи і здобути величезні багатства, але якщо ви відмовитеся, то це, можливо, спричинить за собою деякі наслідки.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Non_Christian	Очікується, що великі держави християнського світу візьмуть на себе хрест і об'єднаються для вторгнення в Єгипет.	true
+scripted_subtitles_localised_text_MK1212.Crusades.Cutscene_03_Crusade_Target	Будучи власником Каїра, ваша фракція є метою для цього хрестового походу. Було б розумно зосередити свої сили на обороні, тому що хрестоносці не змусять себе чекати...	true

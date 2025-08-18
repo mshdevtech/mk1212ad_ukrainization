@@ -1,0 +1,53 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_map_attritions.loc		
+campaign_map_attritions_unit_card_tooltip_att_att_mountain	Гори підступні. Швидше спускайтеся на рівнину, щоб уникнути небойових втрат.	true
+campaign_map_attritions_unit_immunity_text_att_att_desertion	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_besieged	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_besieging	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_blockaded	placeholder	true
+campaign_map_attritions_unit_card_tooltip_att_att_besieged	Населення поселення в облозі вимирає від голоду. Будь-якими засобами зніміть облогу - хоч зброєю, хоч дипломатією!	true
+campaign_map_attritions_campaign_map_tooltip_att_att_sabotage	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_disease	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_mountain	Цей загін не несе небоєвих втрат на гірських перевалах.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_high_sea	У відкритому морі кораблі будуть нести небоєві втрати.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_mountain	На гірських перевалах війська будуть нести небоєві втрати.	true
+campaign_map_attritions_unit_immunity_text_att_att_high_sea	Цей загін не несе небоєвих втрат у відкритому морі.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_swamp	У болотистих землях війська будуть нести небойові втрати.	true
+campaign_map_attritions_unit_immunity_text_att_att_blockading	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_sabotage	placeholder	true
+campaign_map_attritions_unit_card_tooltip_att_att_sabotage	Ворожий агент провів вдалу диверсію в наших військах, і ми понесли тяжкі втрати. Знайдіть винуватця наших бід і вбийте його!	true
+campaign_map_attritions_campaign_map_tooltip_att_att_besieged	Це поселення несе небойові втрати, поки знаходиться в облозі.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_2	У холодних областях війська будуть нести небойові втрати.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_3	У холодних областях війська будуть нести небойові втрати.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_1	У холодних областях війська будуть нести небойові втрати.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_4	У холодних областях війська будуть нести небойові втрати.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_5	У холодних ділянках війська будуть нести небойові втрати.	true
+campaign_map_attritions_unit_immunity_text_att_att_regionless	placeholder	true
+campaign_map_attritions_unit_card_tooltip_att_att_high_sea	Стихії особливо сильні у відкритому морі. Бурхливі води можуть розкидати кораблі і погубити наших моряків. Щоб зберегти флот, тримайтеся ближче до берега.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_desert	У пустелі війська будуть нести небойові втрати.	true
+campaign_map_attritions_unit_card_tooltip_att_att_blockading	Якщо флот постійно знаходиться в морі, це шкодить не тільки противнику, але і нам. Швидше закінчуйте блокаду, щоб зупинити небойові втрати.	true
+campaign_map_attritions_unit_card_tooltip_att_att_regionless	Ваші солдати розбігаються, тому що ви не можете забезпечити їх усім необхідним. Зробіть щось, поки ви не залишилися без військ.	true
+campaign_map_attritions_unit_card_tooltip_att_att_besieging	Облога дорого коштує не лише захисникам поселення, а й обложникам: їхнє військо виснажується від хвороб і дрібних сутичок з місцевими. Зніміть облогу якомога швидше, щоб зупинити небойові втрати.	true
+campaign_map_attritions_unit_card_tooltip_att_att_blockaded	У поселенні, відрізаному від моря, починається голод. Прорвіть блокаду, щоб поповнити запаси всього найнеобхіднішого.	true
+campaign_map_attritions_unit_card_tooltip_att_att_desertion	Ваші солдати розбігаються, тому що ви не можете забезпечити їх усім необхідним. Зробіть щось, поки ви не залишилися без військ.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_disease	placeholder	true
+campaign_map_attritions_campaign_map_tooltip_att_att_blockading	Цей флот несе небойові втрати, поки блокує порт.	true
+campaign_map_attritions_unit_card_tooltip_att_att_desert	У всіх пустель є одна спільна риса: нестача води. І це губить наших людей! Не затримуйтеся тут, інакше ми загинемо в проклятих пісках.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_regionless	placeholder	true
+campaign_map_attritions_unit_immunity_text_att_att_snow_4	Цей загін не несе небойових втрат у снігу.	true
+campaign_map_attritions_unit_immunity_text_att_att_snow_5	Цей загін не несе небойових втрат у снігу.	true
+campaign_map_attritions_unit_immunity_text_att_att_snow_2	Цей загін не несе небойових втрат у снігу.	true
+campaign_map_attritions_unit_immunity_text_att_att_snow_3	Цей загін не несе небойових втрат у снігу.	true
+campaign_map_attritions_unit_immunity_text_att_att_snow_1	Цей загін не несе небойових втрат у снігу.	true
+campaign_map_attritions_unit_card_tooltip_att_att_swamp	Шлях болотами небезпечний. Мудрий воєначальник не заведе військо в таке місце.	true
+campaign_map_attritions_unit_immunity_text_att_att_swamp	Цей загін не несе небойових втрат у болотах.	true
+campaign_map_attritions_unit_immunity_text_att_att_desert	Цей загін не несе небойових втрат у пустелях.	true
+campaign_map_attritions_unit_card_tooltip_att_att_disease	Наші війська косить хвороба. Потрібно умилостивити богів жертвою, щоб вони відвели від нас свій гнів, а потім дочекатися закінчення епідемії.	true
+campaign_map_attritions_unit_card_tooltip_att_att_snow_3	Холод вбиває. Щоб уникнути небойових втрат, влаштуйте табір, знайдіть поселення або перейдіть в ділянку з теплішим кліматом.	true
+campaign_map_attritions_unit_card_tooltip_att_att_snow_2	Холод вбиває. Щоб уникнути небойових втрат, влаштуйте табір, знайдіть поселення або перейдіть в ділянку з теплішим кліматом.	true
+campaign_map_attritions_unit_card_tooltip_att_att_snow_1	Холод вбиває. Щоб уникнути небойових втрат, розбийте табір, знайдіть поселення або перейдіть в ділянку з теплішим кліматом.	true
+campaign_map_attritions_unit_card_tooltip_att_att_snow_5	Холод вбиває. Щоб уникнути небойових втрат, розбийте табір, знайдіть поселення або перейдіть в ділянку з теплішим кліматом.	true
+campaign_map_attritions_unit_card_tooltip_att_att_snow_4	Холод вбиває. Щоб уникнути небойових втрат, розбийте табір, знайдіть поселення або перейдіть в ділянку з теплішим кліматом.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_desertion	placeholder	true
+campaign_map_attritions_campaign_map_tooltip_att_att_besieging	Це військо несе небойові втрати, поки тримає місто в облозі.	true
+campaign_map_attritions_campaign_map_tooltip_att_att_blockaded	Цей порт несе небойові втрати, поки знаходиться в блокаді.	true

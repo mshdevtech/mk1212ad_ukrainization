@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/db/battle_types.loc		
+battle_types_onscreen_siege	Штурм міста	true
+battle_types_onscreen_limes	Прикордонний вал	true
+battle_types_onscreen_naval	Морська битва	true
+battle_types_onscreen_ambush	Засідка	true
+battle_types_onscreen_unfortified_settlement	Штурм нез. міста	true
+battle_types_onscreen_coastal_battle	Прибережна битва	true
+battle_types_onscreen_river_crossing_battle	Битва на переправі	true
+battle_types_onscreen_capture_point	Битва за захоплення точки	true
+battle_types_onscreen_classic	Наземна битва	true
+battle_types_onscreen_campaign_battle	Битва кампанії	true
+battle_types_onscreen_land_bridge	Битва на мосту	true
+battle_types_onscreen_Tutorial	Навчання	true
+battle_types_onscreen_naval_siege	Штурм порту	true
+battle_types_onscreen_unfortified_port	Штурм нез. порту	true
+battle_types_onscreen_historic	Битва за сценарієм	true
+battle_types_onscreen_napoleon_historic	text_rejected	true

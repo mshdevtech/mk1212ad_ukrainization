@@ -1,0 +1,364 @@
+key	text	tooltip
+#Loc;1;text/db/dilemmas.loc		
+dilemmas_localised_title_att_subject_religious_zoroastrian_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_subject_politics_nomad_hostage	Заручник	true
+dilemmas_localised_title_att_subject_politics_roman_hostage	Перспективний юнак	true
+dilemmas_localised_title_att_subject_domestic_nordic_the_flyting_1	Змагання в лихослів'ї	true
+dilemmas_localised_description_att_dilemma_military_none_war_child_1	Прогулюючись по руїнах захопленого поселення, ваш полководець почув дитячий плач. Серед обвуглених руїн виявилося живе немовля!	true
+dilemmas_localised_title_att_subject_religious_none_the_true_cross_1	Істинний Хрест	true
+dilemmas_localised_title_att_subject_religious_orthodox_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_subject_religious_hun_lightning	Блискавка не б'є двічі	true
+dilemmas_localised_title_att_eos_religious_event_rebellion_att_fact_himyar_att_rel_judaism	Раввін - зречення	true
+dilemmas_localised_description_cha_dilemma_viking_1_cha_fact_northumbria	Втомившись від нескінченних нальотів, король Нортумбрії запропонував вам нову угоду. Він готовий наділити вас землею або обдарувати золотом, аби ви припинили грабувати його королівство. Прийнявши його умови, ви укладете з Нортумбрією мир, але хто заважає вам погодитися, а потім порушити договір? Може, і сам король замишляє подібне? З іншого боку, ви можете продовжити грабувати англійців і вселяти жах в їхні серця. Вибір за вами!	true
+dilemmas_localised_description_ollam_ri_picti	Віки утисків підірвали дух кельтів, та легенди про їхнє славетне минуле й досі збурюють уяву відважних юнаків. От і молодий король залишив столицю прадавнього острова, щоб здобути знання про майбутнє свого народу. Він неодмінно дізнається його долю — або викує її власноруч!	true
+dilemmas_localised_title_att_bel_request_justinian_photius_1	Прохання Юстиніана: Фотій	true
+dilemmas_localised_description_att_subject_religious_none_the_relic_seller_1	Столичний торговець реліквіями нещодавно втринадцяте продав гілку, за допомогою якої втопили святого Саву! Він пропонує вам гроші, щоб ви закрили на це очі.	true
+dilemmas_localised_description_slav_dilemma_anteans_1	Як і було обіцяно, Хілібідій постав перед вами і засвідчив, що є досить впливовим римським полководцем. Але якщо це так, то чому ми про нього досі не чули? Як би там не було, він обіцяє нам прихильність Риму в обмін на свою свободу. Справа вкрай сумнівна, але остаточне рішення приймати вам...	true
+dilemmas_localised_description_slav_dilemma_anteans_2	Жахливі новини, мій пане! Полководець Хілібідій, якого ми відпустили до Риму, виявився брехуном! Інший раб з табору зізнався під страхом смерті, що цей «Хілібідій» насправді звичайний розбійник і злодій. Він уже майже дістався до римських кордонів, але ми ще можемо встигнути його перехопити.	true
+dilemmas_localised_description_att_dilemma_religious_christian_the_manichean_heresy_1	Недавній синод постановив, що дуалістичні погляди маніхеїв бентежать уми благочестивих християн. Згідно з наказом Папи Римського, маніхейські єретики повинні бути вигнані з наших земель.	true
+dilemmas_localised_description_att_subject_religious_arian_illegal_practice_1	Цей чоловік порушив закон, проповідуючи аріанство на міському ринку.	true
+dilemmas_localised_description_att_subject_politics_barb_nomad_tribal_loyalty	У племені назріває розкол. Дві групи вже влаштували бійку з метою з'ясувати, хто кровожерливіший!	true
+dilemmas_localised_title_att_subject_domestic_civil_master_agitator	Агітатор аграріїв	true
+dilemmas_localised_title_att_subject_religious_barb_bloodless	Безкровний баран	true
+dilemmas_localised_title_att_bel_request_antoninia_rumours_1	Прохання Антоніни: плітки	true
+dilemmas_localised_title_cha_dilemma_mercia_1	Набуття таланту	true
+dilemmas_localised_title_att_political_action_dilemma_assassinate_wound_suspicious	Підозріла травма	true
+dilemmas_localised_description_att_subject_military_nomad_master_swordsmith	Наші грабіжники взяли в полон досвідченого майстра. Він каже, що вміє кувати смертоносні криві мечі, якими воюють воїни Сходу. Як ми поступимо з ним?	true
+dilemmas_localised_description_ybor_level_A_alamanni	Молодий воїн Ібор із вашого почту не знаходить спокою у палаці. Ведений жагою до подвигів, він просить дозволу вирушити в дикі землі. Ви не хочете відпускати його, але розумієте: мандри сформують і загартують його характер. Що ви подаруєте Ібору на прощання?	true
+dilemmas_localised_description_att_subject_religious_manichaeism_pilgrims_1	У Месопотамії, де народився Мані, щорічно проводиться велике маніхейське свято Бема. Чи варто нам терпіти таке на своїй землі?	true
+dilemmas_localised_title_att_subject_politics_civil_hostage	Протеже	true
+dilemmas_localised_title_att_subject_religious_zoroastrian_pilgrims_1	Паломники	true
+dilemmas_localised_description_att_subject_religious_hun_lightning	Перед вами з'явилася людина в димлячому одязі. Він стверджує, що його вразила блискавка. Можливо, це знак особливої милості Тенгрі?	true
+dilemmas_localised_title_att_subject_domestic_all_stone_mason	Каменяр	true
+dilemmas_localised_title_slav_dilemma_sclaveneans_1	Полювання на гунів	true
+dilemmas_localised_description_att_bel_request_justinian_photius_1	Вітаю тебе, Велісарій. Нерідко трапляється так, що доблесні полководці, досвідчені у військовій справі, програють битви у власному домі. Досить згадати царя Ахава, великого воїна і мудрого політика: піддавшись впливу Єзавелі, він розгнівав Господа і погубив не тільки себе, але і своє царство. Тому ти повинен розуміти, що твої, здавалося б, особисті справи можуть бути тісно пов'язані з долею імперії. Ти знаєш, що твоя влада поступається тільки моїй. Це накладає на тебе набагато більшу відповідальність, ніж на простих громадян. Твоя дружина Антоніна з недавніх пір влаштовує скандали в столиці. Від її дій вже постраждало кілька моїх кращих агентів, а зараз, я чув, вона плете інтриги проти власного сина! Моє терпіння вичерпалося. Мені боляче віддавати такий наказ тому, хто служив мені так довго і бездоганно, але я впевнений, що він принесе благо в першу чергу тобі самому. Ти повинен перестати слухати свою дружину. Це все.	true
+dilemmas_localised_title_att_subject_military_roman_master_hostile_governor	Ворожий губернатор	true
+dilemmas_localised_description_att_subject_domestic_none_foreign_migrants_1	Через війну в сусідніх країнах до нас потягнулися чужинці. Від них є певна вигода, але вони приносять на наші землі свої сумнівні вірування і звичаї. Деякі з ваших радників вважають, що їх слід вигнати.	true
+dilemmas_localised_description_cha_dilemma_viking_1_cha_fact_mercia	Втомившись від нескінченних нальотів, король Мерсії запропонував вам угоду. Він готовий наділити вас землею або обдарувати золотом, аби ви припинили нападати на його королівство. Прийнявши його умови, ви укладете з Мерсією мир, але хто заважає вам погодитися, а потім порушити договір? Можливо, і сам король замишляє щось подібне? З іншого боку, ви можете продовжити грабувати англійців і вселяти жах у їхні серця. Вибір за вами!	true
+dilemmas_localised_description_att_subject_religious_none_the_true_cross_1	У мене для вас особлива пропозиція: тріска від Істинного Хреста, яку приніс з Голгофи сам святий Петро! Такий шанс випадає лише раз у житті!	true
+dilemmas_localised_title_att_subject_domestic_barb_nomad_stolen_sword	Вкрадений меч	true
+dilemmas_localised_title_att_subject_domestic_eastern_the_chovgan_tourney_1	Турнір з човгану	true
+dilemmas_localised_title_att_subject_religious_christian_the_black_sheep_1	Біла ворона	true
+dilemmas_localised_description_political_event_assassination	Зрада! Подейкують, що ця особа замишляє вбивство члена вашої родини. Прямих доказів немає, але якщо ви негайно не вживете заходів, наслідки можуть бути жахливими.	true
+dilemmas_localised_title_att_subject_politics_barb_nomad_challenger	Вискочка	true
+dilemmas_localised_title_att_eos_marib_dam_repair_2	Супутня шкода	true
+dilemmas_localised_title_att_eos_marib_dam_repair_3	Супутня шкода	true
+dilemmas_localised_title_att_eos_marib_dam_repair_0	Супутня шкода	true
+dilemmas_localised_title_att_eos_marib_dam_repair_1	Супутня шкода	true
+dilemmas_localised_title_att_subject_domestic_civil_hostile_dispute	Гучна сварка	true
+dilemmas_localised_description_att_subject_religious_arian_pilgrims_1	Аріанські паломники, що йдуть до святих місць, порушують наші кордони.	true
+dilemmas_localised_title_att_subject_diplomatic_none_border_dispute_1	Прикордонна суперечка	true
+dilemmas_localised_title_att_subject_domestic_none_excess_materials_1	Надлишки матеріалів	true
+dilemmas_localised_title_att_eos_sassanid_insult_1	Балаканина	true
+dilemmas_localised_title_att_eos_sassanid_insult_3	Балаканина	true
+dilemmas_localised_title_att_eos_sassanid_insult_2	Балаканина	true
+dilemmas_localised_description_att_bel_request_theodosia_ioannina_1	Велісарій, від щирого серця вітаю тебе з майбутнім весіллям твоєї дочки! Анастасій, мій улюблений племінник, стане чудовим чоловіком для твоєї прекрасної Іоанни. Яке щастя, коли сім'ї, так тісно пов'язані дружбою, вірністю і служінням батьківщині, об'єднуються ще й священними узами шлюбу.\\n\\nНе сумніваюся, що твоя дружина розповіла тобі про незвичайний початок їхніх стосунків і мою роль у них. Так, плотське співжиття до вінчання не до вподоби Господу, але це було неминуче, з огляду на почуття молодих і постійні відмовки твоєї дружини. Не сумніваюся, що вона розлютилася від того, що її дочку «зганьбили», але, на мій погляд, час втрати невинності є другорядним порівняно з чистим і щирим наміром укласти шлюб. Господу на Небесах відомі всі наші спонукання; Він пробачить цей гріх. Можливо, твоя дружина забула, що на момент укладення вашого шлюбу її власна «честь» була далеко не бездоганною. Змусь її утриматися від поспішних дій, благослови цей союз і перетвори цю прикру ситуацію на благо.	true
+dilemmas_localised_description_att_subject_military_none_war_child_1	Хлопчик, знайдений серед руїн, почав задавати питання про свою спадщину.	true
+dilemmas_localised_description_att_bel_request_antoninia_rumours_1	Ох, любий, тут вчора таке було! Я знаю, що ти страшенно на мене злишся, але тобі просто треба трохи заспокоїтися - і ти відразу все зрозумієш. Я навіть не буду просити тебе вибачитися, хоча коли ти дізнаєшся, що сталося насправді, ти будеш почуватися дуже дурно.\\n\\nМи з Фео закопали скарб у підвалі! Ти в Карфагені так старався, щоб захопити всі ці скарби, а Юстиніан хоче їх забрати, хоча сам тільки й робить, що сидить на троні і надуває щоки. Ну, я й вирішила дещо приховати, щоб хитрі збирачі податків не позбавили тебе заслуженої нагороди. Ну ось, а коли ми копали, малюк Фео зняв штани, щоб не забруднити їх у землі. Це ми потім вже зрозуміли, що все це виглядало вельми двозначно. Яка дурість! У будь-якому випадку, коли ти заспокоїшся, я надішлю тобі гроші, щоб ти переконався, що я тобі не брешу. А потім ми забудемо це прикре непорозуміння.	true
+dilemmas_localised_description_att_subject_religious_manichaeism_illegal_practice_1	Ця людина викрита в порушенні заборони на сповідання маніхейства.	true
+dilemmas_localised_description_att_subject_domestic_barb_nomad_enemy_trade	Іноді пристрасть до вина позбавляє розуму. Один з ваших одноплемінників оббирає місцевих іммігрантів, щоб роздобути гроші на випивку.	true
+dilemmas_localised_description_ollam_ri_B2	Голови братів впали до ніг короля. Вражені його швидким судом, селяни відразу запропонували йому нову справу. Грізний Брес, король сусіднього племені, нещодавно був захоплений в полон. В обмін на своє життя він готовий розкрити секрет родючості, що гарантує багатий урожай і щедрі надої.	true
+dilemmas_localised_description_ollam_ri_B1	Сини Туйреанна принесли закривавлену свинячу шкуру, але дорого заплатили за неї: всі троє були смертельно поранені. Стверджуючи, що шкура має цілющі властивості, вони попросили короля обернути нею свої рани. За це брати готові відповісти на будь-яке питання, яке тільки є в світі.	true
+dilemmas_localised_description_att_subject_domestic_none_workers_on_strike_1	Ми вимагаємо поліпшення умов праці. Ми не раби!	true
+dilemmas_localised_title_att_bel_request_justinian_narses_1	Прохання Юстиніана: Нарсес	true
+dilemmas_localised_title_att_subject_religious_none_the_holy_site_1	Святе місце	true
+dilemmas_localised_description_att_subject_domestic_all_stone_mason	До вас з'явився чужинець, який назвався великим муляром. Чи хочете ви взяти його на службу?	true
+dilemmas_localised_description_ollam_ri_A2	Ріг - правильна відповідь! Старий простягнув сяючого лосося, але як тільки наш король зібрався відкусити хоча б шматочок, йому на очі потрапив чоловік, що сидів на дереві. Він назвався Божевільним Суїбне - проклятим королем, приреченим вести пташине життя і стрибати з гілки на гілку від найменшого шуму.	true
+dilemmas_localised_description_ollam_ri_A3	З'ївши вкраденого лосося, король продовжив йти вздовж берега. Незабаром йому на очі потрапила жінка, яка доглядала за лошатами. Це могла бути як злісна кельпі зі своїм підступним потомством, так і мирна доброзичлива селянка.	true
+dilemmas_localised_description_ollam_ri_A1	Старий похитав головою: це не друїд. Засмучений король-оллам пішов своєю дорогою, але незабаром йому зустрілася велика чорна кішка з плямою на грудях. Вона встала перед королем і зарозуміло дивилася на нього, вимагаючи уваги. Як вчинить наш герой?	true
+dilemmas_localised_description_att_subject_religious_zoroastrian_pilgrims_1	На горі Хаджех в наших володіннях стоїть стародавній храм Аташ Адарана. Останнім часом туди з'їжджаються зороастрійці. Радник просить вас заборонити ці паломництва.	true
+dilemmas_localised_description_att_dilemma_religious_christian_council_of_carthage_1	418 р., Карфаген. Християнські священики всього світу знову зібралися в цьому місті. Аскет Пелагій стверджує, що Господу не потрібно очищати нас від гріхів, а первородного гріха не було зовсім. Багато хто вважає, що за таку єресь Пелагій і його послідовники заслуговують на вигнання.	true
+dilemmas_localised_description_att_subject_domestic_barb_nomad_stolen_sword	Меч - гордість воїна, проте така дорогоцінна зброя не може не викликати розбрат... Ваш племінник стверджує, що у нього вкрали меч. Обвинувачений все заперечує.	true
+dilemmas_localised_title_att_subject_domestic_none_foreign_migrants_1	Чужоземні мігранти	true
+dilemmas_localised_title_cha_dilemma_viking_1_cha_fact_mercia	Неспокійні воїни	true
+dilemmas_localised_title_att_subject_politics_civil_secret_meetings	Таємні зустрічі	true
+dilemmas_localised_title_att_subject_religious_catholic_pilgrims_1	Паломники	true
+dilemmas_localised_description_cha_dilemma_cordoba_1	Халіфат Аббасидів, якому належать великі землі від Африки до Леванту, загрожує вашим берегам. Щоб показати свою міць, він зібрав армію на африканському березі, погрожуючи відправити її через протоку. Аббасиди стверджують, що залишать вас у спокої, якщо ви заплатите їм данину, але хто знає: раптом на ці гроші вони зберуть ще більшу армію, щоб вже точно захопити ваші землі? Яким би не було ваше рішення, від нього залежить доля всіх жителів півострова. Іберія завмерла в очікуванні.	true
+dilemmas_localised_title_cha_dilemma_charlemagne_daughter_1	Непервородний гріх	true
+dilemmas_localised_description_att_dilemma_domestic_roman_saint_telemachus_1	Під час ігор у римському Колізеї якийсь Телемах вибіг на арену і спробував розборонити гладіаторів, але був убитий ударом меча. Тепер християнська громада вимагає заборони ігор.	true
+dilemmas_localised_description_att_subject_domestic_none_hidden_treasure_1	Шахтарі знайшли в печері схованку з великим запасом золота. Як ми поступимо з ним?	true
+dilemmas_localised_description_att_subject_domestic_none_excess_materials_1	Мій пане! Після успішного завершення недавнього будівельного проекту у нас залишилося багато матеріалів. Як ми поступимо з ними?	true
+dilemmas_localised_title_att_subject_religious_manichaeism_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_description_att_subject_domestic_civil_idiot_magistrate	Один з ваших чиновників з'явився до вас і сказав, що програв свою посаду в кості. Як ви вчините?	true
+dilemmas_localised_title_att_bel_request_theodosia_ioannina_1	Прохання Феодори: Іоанніна	true
+dilemmas_localised_title_att_subject_religious_germanic_pilgrims_1	Паломники	true
+dilemmas_localised_title_att_subject_religious_hellenic_pilgrims_1	Паломники	true
+dilemmas_localised_description_political_event_marriage_male	Один з ваших підданих хоче одружитися зі своєю коханою. Чи дозволите ви цей союз?	true
+dilemmas_localised_description_att_subject_diplomatic_none_border_dispute_1	В одному з прикордонних районів селянин з сусідньої держави намагається привласнити собі землю вашого підданого.	true
+dilemmas_localised_title_ollam_ri_B	Сага про короля-оллама	true
+dilemmas_localised_title_ollam_ri_A	Сага про короля-оллама	true
+dilemmas_localised_description_att_subject_military_none_the_gift_of_speed_1	Бажаючи завоювати вашу прихильність, місцевий аристократ подарував вам найкращих лошат зі свого табуна. Як з ними вчинити?	true
+dilemmas_localised_title_ollam_ri_B1	Сага про короля-оллама	true
+dilemmas_localised_title_ollam_ri_B2	Сага про короля-оллама	true
+dilemmas_localised_description_cha_dilemma_mercia_2_2	Розгніваний вашою забороною, Алкуїн припинив усі свої дослідження. Втім, це було передбачувано; чого ви точно не очікували, так це того, що він все-таки зважиться покинути королівство всупереч вашій волі. Ви знову на роздоріжжі, мілорд. Яким буде ваше рішення?	true
+dilemmas_localised_title_att_subject_domestic_barb_nomad_enemy_trade	Торгівля з ворогом	true
+dilemmas_localised_description_att_subject_domestic_none_withholding_taxes_1	Пане! Повинен повідомити вам, що деякі громадяни відмовляються платити податки, справедливо встановлені вами.	true
+dilemmas_localised_title_att_political_action_dilemma_diminish_popularity_followup_merciful	Милосердя	true
+dilemmas_localised_description_att_subject_diplomatic_none_turncoat_1	До вас прибув чужинець, який назвався агентом ворожої держави. Він попросив притулку і запропонував натомість цінні державні таємниці своїх колишніх господарів, які вимагають його видачі...	true
+dilemmas_localised_description_att_subject_religious_zoroastrian_illegal_practice_1	Цей чоловік влаштував у своєму будинку вівтар вічного полум'я. Це порушення законів нашої землі.	true
+dilemmas_localised_title_ollam_ri_A1	Сага про короля-оллама	true
+dilemmas_localised_title_ollam_ri_A2	Сага про короля-оллама	true
+dilemmas_localised_title_ollam_ri_A3	Сага про короля-оллама	true
+dilemmas_localised_title_att_subject_religious_catholic_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_political_action_dilemma_diminish_popularity_reversal	Зміни	true
+dilemmas_localised_title_att_subject_domestic_civil_idiot_magistrate	Азартний гравець	true
+dilemmas_localised_description_att_subject_religious_barb_bloodless	З жертвенного барана, якого ми підвісили на дереві, не витекло ні краплі крові! Це дуже поганий знак. Треба терміново задобрити богів.	true
+dilemmas_localised_title_att_subject_religious_manichaeism_pilgrims_1	Паломники	true
+dilemmas_localised_title_att_subject_military_nomad_master_swordsmith	Коваль-зброяр	true
+dilemmas_localised_description_cha_dilemma_mercia_1	Мілорде! Один з ваших придворних, Алкуїн Йоркський, має намір зрадити вас і відправитися до двору короля франків Карла Великого. Як ви, мабуть, знаєте, Алкуїн - один з наших найкращих вчених; його відхід стане великою втратою для всього королівства. Але він прагне до Аахена, де на нього чекає робота серед найвидатніших умів людства. Він просить вас негайно відпустити його до Франції.	true
+dilemmas_localised_title_att_subject_domestic_none_hidden_treasure_1	Знайдений скарб	true
+dilemmas_localised_title_att_subject_religious_hellenic_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_subject_religious_germanic_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_description_ybor_level_A_burgundi	Молодий воїн Ібор із вашого почту не знаходить спокою у палаці. Ведений жагою до подвигів, він просить дозволу вирушити в дикі землі. Ви не хочете відпускати його, але розумієте: мандри сформують і загартують його характер. Що ви подаруєте Ібору на прощання?	true
+dilemmas_localised_title_political_event_blackmail	Наклеп	true
+dilemmas_localised_title_att_subject_religious_christian_the_money_lender_1	Лихвар	true
+dilemmas_localised_description_att_subject_politics_civil_challenger	Один молодий оратор привертає все більшу увагу натовпу. Він уже користується підтримкою серед політиків і черні. Поки що він не кидав вам виклик, але й не говорив, що схвалює ваші починання.	true
+dilemmas_localised_title_att_subject_military_barb_master_hostile_governor	Ворожий губернатор	true
+dilemmas_localised_description_att_subject_domestic_none_the_silk_trader_1	У наші землі прибув торговець з великими запасами шовку. Кажуть, що він знає секретний торговий шлях, яким возять безліч цінних вантажів. Його товари заполонили ринок і обвалили ціни, зменшивши дохід.	true
+dilemmas_localised_title_political_event_ministerial_position	Кар'єрне питання	true
+dilemmas_localised_description_att_subject_religious_barb_stranger	Чужинець у пошарпаному балахоні стверджує, що йому відомо місцезнаходження давно забутої святині. За гідну плату він готовий розкрити його вам.	true
+dilemmas_localised_title_att_dilemma_religious_catholic_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_dilemma_religious_christian_council_of_ephesus_1	431 р., Ефес. Християнські єпископи зібралися в цьому місті, щоб затвердити Нікейський Символ віри і засудити константинопольського архієпископа Несторія за твердження, що Діва Марія народила не Бога, а лише смертного Ісуса. Оскільки поділ людської і божественної природи Христа суперечить Символу віри, Кирило Александрійський зажадав від Папи оголосити несторіанство єрессю.	true
+dilemmas_localised_title_att_dilemma_religious_hellenic_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_title_att_eos_religious_event_rebellion_att_fact_axum_att_rel_church_east	Єпископ - зречення	true
+dilemmas_localised_description_att_bel_request_antoninia_thedosius_1	Ох, милий, я так за тобою скучила! Кажуть, тобі там нелегко доводиться з цими вандалами. Я навіть думаю приїхати і трохи підняти твій бойовий дух - правда ж, я чудо? У будь-якому випадку, я пам'ятаю, який ти у мене добрий і благочестивий, тому я приготувала тобі сюрприз. У нас новий син! Пам'ятаєш свого бідного хрещеника-сироту Феодосія? Ну ось, він стільки всього для мене зробив, що ми просто зобов'язані прийняти його в сім'ю. Він такий чарівний - тут просто черга з бажаючих його усиновити! Ти ж хочеш, щоб він залишився у нас, правда?\\n\\nО, до речі, я тут проводила час з молодими константинопольськими філософами (у них такі довгі слова...), так ось, один з них сказав, що в твоїй старій запиленій Африці дуже важливо зберігати воду свіжою, а він знає, як це робити. Якщо ти не відмовиш мені в моєму маленькому проханні, я з задоволенням дізнаюся його секрет і передам його тобі...	true
+dilemmas_localised_title_att_political_action_dilemma_seek_office_obstruction	Політична обструкція	true
+dilemmas_localised_description_att_subject_religious_christian_candidate_for_bishop	У мене звістка від Святої Церкви. Серед нас є ревний і благочестивий християнин, цілком гідний сану єпископа. Ви затверджуєте його кандидатуру?	true
+dilemmas_localised_title_ollam_ri_votadini	Сага про короля-оллама	true
+dilemmas_localised_description_att_subject_politics_rome_corruption	Влада повинна прислухатися до голосу натовпу. Народ вимагає, щоб політики згадали про свій обов'язок і перестали набивати кишені за рахунок слави Риму.	true
+dilemmas_localised_description_att_subject_domestic_roman_the_chariot_races_1	Скоро почнуться чергові перегони колісниць. Основні претенденти на перемогу - зелені та сині, але червоні з білими теж братимуть участь. Невелика сума, поставлена вашою високістю на одну з команд, може виявитися вигідним вкладенням...	true
+dilemmas_localised_title_att_dilemma_religious_orthodox_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_title_att_subject_religious_zoroastrian_brazier	Вогняна кара	true
+dilemmas_localised_title_att_dilemma_religious_arian_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_title_att_political_action_dilemma_embezzlement_suspicious	Обґрунтовані підозри	true
+dilemmas_localised_description_att_political_action_dilemma_secure_loyalty_mutilation	У даному випадку гарантувати вірність буде непросто. Можливо, доведеться вдатися до більш радикальних заходів...	true
+dilemmas_localised_title_att_subject_domestic_none_the_silk_trader_1	Торговець шовком	true
+dilemmas_localised_description_ollam_ri_A1ii	Три дні і три ночі кішка і король дивилися один на одного, не відводячи погляду ні на мить. Навколо них зібрався натовп бажаючих подивитися, чим же закінчиться цей поєдинок воль. Одні кричали, що кішка насправді відьма, і благали короля тікати, інші, навпаки, підбадьорювали його.	true
+dilemmas_localised_description_att_eos_religious_event_rebellion_att_fact_axum_att_rel_church_east	Досить ми терпіли твою поблажливість до цієї чужої і нечестивої віри! На початку свого правління ти обіцяв, що ми будемо процвітати, не боячись нападок з боку твоїх одновірців. Але тепер ми знаємо, що це були порожні слова, і твоя головна мета - знищити нашу віру і всіх, хто її шанує. Ми не можемо повернути час назад, але ми вимагаємо гідного поводження. Принеси нам золоті дари, щоб ми могли жити, не боячись, і відповідно до наших уявлень. Я прошу смиренно, але пам'ятай: мої послідовники - люди на межі відчаю, і якщо їх прохання не буде задоволено, то може пролитися кров. Зроби ж нарешті мудрий вибір, повелитель.	true
+dilemmas_localised_title_att_subject_religious_barb_stranger	Чужоземець	true
+dilemmas_localised_description_att_subject_domestic_roman_a_little_flutter_2	Наступного місяця на арену вийде загартований ветеран, який здобув безліч перемог. Його суперником буде якийсь молодик. Не хочете зробити ставку? Всього 500 талантів!	true
+dilemmas_localised_description_att_subject_domestic_roman_a_little_flutter_1	Перспективному молодому гладіатору, який має всі шанси прославитися, належить бій з досвідченим суперником. Не хочете зробити ставку? Всього 500 талантів!	true
+dilemmas_localised_title_att_dilemma_religious_germanic_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_political_action_dilemma_embezzlement_suspicious	Спроба розкрадання увінчалася успіхом, але люди все-таки помітили зникнення грошей і коштовностей. Як ви відповісте, якщо вас запитають про їхню долю?	true
+dilemmas_localised_description_att_political_action_dilemma_assassinate_suspicious	Хоча замах і увінчався успіхом, спосіб вбивства виявився грубішим, ніж ви розраховували. Вам доведеться відповісти на безліч складних питань...	true
+dilemmas_localised_title_att_dilemma_religious_tengri_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_political_action_dilemma_adoption_added_incentive	Схоже, гроші цікавлять цю людину більше, ніж вірність вам. Він вимагає ще більшої плати за перехід у вашу родину. Недобре, звичайно, але у вас є вибір...	true
+dilemmas_localised_description_cha_dilemma_saxon_1	Карл Великий чекає на вашу відповідь. Його ультиматум простий: хрещення або смерть. Вибір за вами, але в будь-якому випадку він матиме далекосяжні наслідки...	true
+dilemmas_localised_description_att_dilemma_religious_orthodox_religious_sanctions_1	Значну частину нашого населення становлять грецькі християни. Як з ними вчинити?	true
+dilemmas_localised_title_att_subject_military_none_the_spy_1	Шпигун	true
+dilemmas_localised_description_att_dilemma_domestic_none_plentiful_harvest_1	Урожай цього року був особливо щедрим. Що ми зробимо з надлишками?	true
+dilemmas_localised_title_cha_dilemma_lombard_pope_demands_1	Обіцянка ломбардів	true
+dilemmas_localised_title_cha_dilemma_lombard_pope_demands_3	Обіцянка ломбардів	true
+dilemmas_localised_title_cha_dilemma_lombard_pope_demands_2	Обіцянка ломбардів	true
+dilemmas_localised_title_att_dilemma_religious_celtic_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_subject_diplomatic_none_tribute_1	Вітаю. Я приніс дар від імені всього нашого народу. Сподіваюся, він сприятиме поліпшенню наших стосунків.	true
+dilemmas_localised_description_ybor_level_B_2	Надівши брошку, Ібор почав бачити світ пронизливо ясно: навіть знайомий з дитинства ліс здався йому дивним і дивовижним. Але тут його шлях перегородило полум'я: почалася лісова пожежа. Селяни з сусіднього села, які випадково опинилися неподалік, завмерли від жаху, хоча вогонь загрожував пожерти їхній урожай.	true
+dilemmas_localised_description_ybor_level_C_2	Перебивши розбійників, Ібор довів, що є втіленням Годана - бога воїнів і цілителів. Жриця вважала своїм обов'язком посвятити його в священні таємниці, але наш герой, на відміну від самого Годана, може вибрати лише один з аспектів божества. Який?	true
+dilemmas_localised_description_ybor_level_C_3	Ібор неушкодженим вийшов з вогню: віра в Годана вберегла його від небезпеки. Селяни, які бачили це диво, всюди рознесли звістку про нього, і незабаром героя оточили нещасні, які потребували допомоги. Коли в сусідньому селі почалася чума, місцевий мудрець заявив, що Ібор здатний впоратися з напастю.	true
+dilemmas_localised_description_ybor_level_B_1	Стиснувши рукоять меча, Ібор безстрашно заглибився в ліс. Але незабаром його шлях перервали крики і брязкіт мечів: орда розбійників жорстоко розправлялася з мирними подорожніми. У бруді і крові Ібор помітив скальда, який намагався захистити жрицю Годана. Кого з них врятує наш герой?	true
+dilemmas_localised_description_ybor_level_C_1	Врятований скальд навчив Ібора ткати павутину слів, здатну огорнути навіть найчерствіше серце. Незабаром наш герой очолив загін шукачів пригод. Але слава породжує заздрість: брати Амбрі та Ассі зібрали армію і виступили проти Ібора, виблискуючи сталлю мечів і злістю поглядів.	true
+dilemmas_localised_description_ybor_level_C_4	Коли вогонь згас, селяни попросили Ібора піти з ними до двору правителя. Вислухавши їхню розповідь, володар запропонував юному воїну посаду радника. Місцевий служитель Годана, у свою чергу, захотів посвятити Ібора в жерці, щоб його слова набули божественної сили.	true
+dilemmas_localised_title_att_subject_religious_barb_stones	Кам'яні воїни	true
+dilemmas_localised_description_att_dilemma_religious_germanic_religious_sanctions_1	У наших землях проживає чимало язичників, які поклоняються германським богам. Чи варто надати їм рівні права?	true
+dilemmas_localised_title_att_subject_domestic_roman_slave_murderer	Вбивця	true
+dilemmas_localised_title_att_subject_domestic_nomadic_the_kassai_contest_1	Турнір лучників	true
+dilemmas_localised_title_att_subject_military_none_drunk_on_watch_1	П'янство на посту	true
+dilemmas_localised_description_att_political_action_dilemma_secure_loyalty_bribery	Вірність може мати різні джерела: розум, серце... або гаманець. Ця людина вимагає більше грошей за свою лояльність. Що скажете?	true
+dilemmas_localised_description_att_subject_nomadic_tribal_strife_1	Наш народ складається з безлічі племен, між якими іноді спалахують давні чвари. Ось і зараз два племені повстали одне проти одного. Якщо не вжити заходів, це може закінчитися розколом між ордами.	true
+dilemmas_localised_description_att_political_action_dilemma_gather_support_opposition	Опозиційна партія не дозволила вам отримати бажану підтримку. Ми можемо продовжити, але треба вирішити, яким чином.	true
+dilemmas_localised_title_cha_dilemma_pope_attacked_1	Око за око	true
+dilemmas_localised_title_att_political_action_dilemma_assassinate_suspicious	Підозріла смерть	true
+dilemmas_localised_description_political_event_ministerial_position	Цей владолюбний чоловік зайняв посаду без вашого схвалення. Можливо, він і підходить для неї, але чи варто ризикувати могутністю вашої родини через його амбіції?	true
+dilemmas_localised_description_att_subject_military_none_the_spy_1	Ми спіймали старого, який шпигував за нашими військами. Він уже визнав свою провину. Як ми вчинимо з ним?	true
+dilemmas_localised_title_cha_dilemma_saxon_1	Верденський вердикт	true
+dilemmas_localised_title_cha_dilemma_verden	Верденський вердикт	true
+dilemmas_localised_description_att_political_action_dilemma_seek_office_obstruction	У боротьбі за владу є тільки одне правило: або ти, або тебе. Суперник не дозволив вашому кандидату зайняти посаду. Як ви вчините?	true
+dilemmas_localised_title_att_eos_religious_event_rebellion_att_fact_himyar_att_rel_semitic_paganism	Верховний жрець Альмакі - зречення	true
+dilemmas_localised_title_att_subject_domestic_civil_married_slaves	Рабське весілля	true
+dilemmas_localised_title_att_subject_politics_rome_corruption	Голос народу	true
+dilemmas_localised_title_att_subject_religious_christian_candidate_for_bishop	Кандидат в єпископи	true
+dilemmas_localised_title_att_dilemma_religious_christian_council_of_ephesus_1	Ефеський собор	true
+dilemmas_localised_title_att_subject_domestic_nomad_sword_of_attila	Меч могутності	true
+dilemmas_localised_title_att_political_action_dilemma_secure_loyalty_bribery	Змазка для коліс	true
+dilemmas_localised_title_att_subject_nomadic_tribal_strife_1	Ворожнеча племен	true
+dilemmas_localised_description_cha_dilemma_pope_attacked_1	Папську область роздирають інтриги. Боротьба за Святий Престол завжди була напруженою, але доля папи Лева III виявилася особливо жорстокою. Неправдиво звинувативши його в розпусті і клятвопорушенні, прихильники колишнього папи Адріана I схопили його на виході з міста і спробували позбавити очей і язика, щоб зробити непридатним для посади понтифіка. Лев III зумів врятуватися; зневірений і закривавлений, він звернувся до вас як до єдиного справедливого судді, якому довіряє весь християнський світ і який в минулому вже приходив на допомогу Святому Престолу. Він натякнув, що ваша допомога може стати свідченням того, що ви гідні заповітного титулу імператора Священної Римської імперії. Тим часом суперники скинутого папи запропонували значну нагороду тому, хто приведе його до Риму і видасть суду...	true
+dilemmas_localised_description_att_dilemma_religious_catholic_religious_sanctions_1	У наших провінціях дуже багато латинських християн. Як слід поступити з ними?	true
+dilemmas_localised_title_att_subject_domestic_barb_temple_sacrilege	Осквернення храму	true
+dilemmas_localised_title_att_subject_religious_christian_pontifex_maximus_1	Верховний жрець	true
+dilemmas_localised_description_att_dilemma_religious_hellenic_religious_sanctions_1	У наших землях проживає чимало язичників, які поклоняються старим римським богам. Чи варто надати їм рівні права?	true
+dilemmas_localised_title_att_dilemma_religious_christian_conference_of_carthage_1	Карфагенський собор	true
+dilemmas_localised_title_att_subject_politics_barb_nomad_secret_meetings	Таємні зустрічі	true
+dilemmas_localised_description_political_event_adoption	Інша сім'я намагається усиновити одного з ваших нащадків! Чи готові ви відпустити хлопчика?	true
+dilemmas_localised_title_att_dilemma_religious_zoroastrian_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_eos_tanukhids_settle	Тепер, коли ваш народ оселився на цих землях, чи хочете ви звільнити місцевих жителів?	true
+dilemmas_localised_title_att_subject_religious_zoroastrian_corpse	Питання життя і смерті	true
+dilemmas_localised_description_att_subject_domestic_civil_married_slaves	Двоє з ваших особистих рабів хочуть одружитися і просять вашого дозволу. Як ви вчините?	true
+dilemmas_localised_title_att_political_action_dilemma_secure_loyalty_mutilation	Відчайдушні кроки	true
+dilemmas_localised_description_att_subject_religious_hun_shaman	До вас з’явився шаман. Він стверджує, що мав видіння: щойно ви наблизилися — небо затьмарилось. За його словами, ви наближаєте кінець часів.	true
+dilemmas_localised_description_political_event_assassination_success_discovered	Ви не прислухалися до попередження. Пролилася благородна кров. Усі докази вказують на цю людину. Як ви вчините з нею?	true
+dilemmas_localised_description_att_dilemma_religious_zoroastrian_religious_sanctions_1	Значну частину нашого населення становлять зороастрійці. Як з ними слід поводитися?	true
+dilemmas_localised_title_att_subject_domestic_roman_the_chariot_races_1	Гонки колісниць	true
+dilemmas_localised_title_att_political_action_dilemma_adoption_added_incentive	А що мені за це буде?	true
+dilemmas_localised_title_att_subject_diplomatic_none_tribute_1	Данина	true
+dilemmas_localised_title_att_dilemma_domestic_none_plentiful_harvest_1	Багатий урожай	true
+dilemmas_localised_description_att_subject_politics_barb_nomad_secret_meetings	Вірні прихильники помітили, що ваші вороги почали зустрічатися в потаємних місцях. Єдине, що може їх об’єднувати — це ненависть до вас...	true
+dilemmas_localised_description_att_subject_religious_barb_stones	До вас з'явився вкрай втомлений і наляканий чоловік. Він стверджує, що земля під стародавніми менгірами почала ходити ходуном. Можливо, це пробуджуються полеглі воїни наших ворогів?	true
+dilemmas_localised_description_political_event_assassination_failure_discovered	Замах закінчився невдало: вбивця розкритий, а жертва залишилася живою, хоч і була поранена. Подальша доля вбивці залежить від ваших дій...	true
+dilemmas_localised_description_att_subject_domestic_nomadic_the_kassai_contest_1	Один з наших благородних воїнів збирається на турнір лучників і просить вас оплатити участь. Переможця цього змагання чекає не тільки слава, але і щедра нагорода!	true
+dilemmas_localised_description_att_subject_domestic_roman_slave_murderer	Колишній раб, якого ви відпустили на свободу, вбив римського громадянина і звернувся до вас за допомогою. Як ви вчините?	true
+dilemmas_localised_title_att_political_action_dilemma_embezzlement_caught	Спійманий на гарячому	true
+dilemmas_localised_description_att_political_action_dilemma_marriage_impediment	Скандал! Один з ваших підданих відмовився від запланованого шлюбу! Потрібно терміново вжити заходів! Як ви вчините?	true
+dilemmas_localised_title_att_subject_diplomatic_none_the_feast_1	Бенкет	true
+dilemmas_localised_description_cha_dilemma_verden	Наші воїни незадоволені тим, що їм доводиться охороняти язичників. Пора вирішувати, як вчинити з полоненими. Цей вибір визначить не тільки їхню долю, але і ставлення до вас всього народу.	true
+dilemmas_localised_description_att_eos_religious_event_rebellion_att_fact_himyar_att_rel_semitic_paganism	Досить ми терпіли твою поблажливість до цієї чужої і нечестивої віри! На початку свого правління ти обіцяв, що ми будемо процвітати, не боячись нападок з боку твоїх одновірців. Але тепер ми знаємо, що це були порожні слова, і твоя головна мета - знищити нашу віру і всіх, хто її шанує. Ми не можемо повернути час назад, але ми вимагаємо гідного поводження. Принеси нам золоті дари, щоб ми могли жити, не боячись, і відповідно до наших уявлень. Я прошу смиренно, але пам'ятай: мої послідовники - люди на межі відчаю, і якщо їх прохання не буде задоволено, то може пролитися кров. Зроби ж нарешті мудрий вибір, повелитель.	true
+dilemmas_localised_title_ollam_ri_ebdani	Сага про короля-оллама	true
+dilemmas_localised_description_att_subject_religious_zoroastrian_brazier	Через неуважність цього послушника згасла священна жаровня! Як ми вчинимо з хлопчиком?	true
+dilemmas_localised_description_att_dilemma_religious_arian_religious_sanctions_1	На наших землях живе багато аріан. Чи варто дати їм ті ж права, що і послідовникам істинної віри?	true
+dilemmas_localised_description_att_subject_military_none_the_lanista_1	На столичних вулицях знайшли літнього ланіста, який виявив бажання служити Імперії.	true
+dilemmas_localised_title_att_dilemma_religious_manichaeism_religious_sanctions_1	Релігійні санкції	true
+dilemmas_localised_description_att_subject_domestic_barb_temple_sacrilege	Один дурень був спійманий за оскверненням храму Юпітера. Такий злочин не може залишитися безкарним.	true
+dilemmas_localised_title_att_subject_domestic_barb_nomad_hostile_dispute	Гучна сварка	true
+dilemmas_localised_description_att_subject_religious_christian_pontifex_maximus_1	Наш єпископ увійшов до числа кандидатів на папський престол.	true
+dilemmas_localised_title_att_subject_religious_none_the_golden_tongued_1	Златоуст	true
+dilemmas_localised_title_political_event_assassination_success_discovered	Змова вбивць!	true
+dilemmas_localised_description_att_subject_domestic_nomad_sword_of_attila	До вас з'явився пастух з прекрасним мечем. Він стверджує, що знайшов цей клинок, коли об нього порізалася одна з овець. За його словами, такої могутньої зброї гідні тільки ви.	true
+dilemmas_localised_description_cha_dilemma_pope_help_1	Тридцять два роки тому ваш батько, король франків Піпін, встав на захист папи римського і змусив здатися ломбардів, які погрожували йому. Здобувши перемогу, Піпін пообіцяв передати Папській області всі землі, раніше захоплені ломбардами; цей акт увійшов в історію під назвою «Піпінів дар». Тепер же папа Адріан I вимагає повернення Равенни, а ломбардський король Дезидерій вперто відмовляється її віддавати. Понтифік відправив посольство до вашого двору з проханням сприяти виконанню обіцянки; аналогічне посольство прибуло і від ломбардів, які стверджують, що папа сіє розбрат у васальних герцогствах.\\nВи можете підтримати будь-яку зі сторін, але врахуйте, що ваше рішення матиме далекосяжні наслідки.	true
+dilemmas_localised_title_att_political_action_dilemma_marriage_impediment	Вагома підстава	true
+dilemmas_localised_title_political_event_marriage_female	Втеча з коханим	true
+dilemmas_localised_title_ollam_ri_A1ii	Сага про короля-оллама	true
+dilemmas_localised_description_att_political_action_dilemma_embezzlement_caught	Як відомо, не спійманий - не злодій. На жаль, цього приятеля все-таки спіймали. Народ вимагає справедливості. Як ви вчините?	true
+dilemmas_localised_title_att_subject_domestic_roman_a_little_flutter_2	Трохи азарту	true
+dilemmas_localised_title_att_subject_domestic_roman_a_little_flutter_1	Трохи азарту	true
+dilemmas_localised_description_att_political_action_dilemma_assassinate_caught	Вбивцю схопили, коли він уже замахнувся ножем. Ніхто не вірить, що це розіграш; всі чекають на ваше рішення.	true
+dilemmas_localised_title_political_event_assassination_failure_discovered	Змова вбивць	true
+dilemmas_localised_title_political_event_adoption	Спроба усиновлення	true
+dilemmas_localised_description_att_dilemma_religious_christian_conference_of_carthage_1	411 р., Карфаген. Берберські християни, які сповідують донатизм, стверджують, що лише їхня Церква є істинною, а всі інші помиляються. Марцеллін запитує, чи готові ми терпіти такий стан речей в нашій імперії.	true
+dilemmas_localised_description_ollam_ri_ebdani	Віки утисків підірвали дух кельтів, та легенди про їхнє славетне минуле й досі збурюють уяву відважних юнаків. От і молодий король залишив столицю прадавнього острова, щоб здобути знання про майбутнє свого народу. Він неодмінно дізнається його долю — або викує її власноруч!	true
+dilemmas_localised_description_att_subject_military_none_drunk_on_watch_1	Цей солдат пиячив замість того, щоб стояти на варті. І все тому, що ми розбавляємо лави наших елітних військ всілякими неотесаними грубіянами!	true
+dilemmas_localised_title_ybor_level_C_3	Сказання про Ібора	true
+dilemmas_localised_title_ybor_level_B_2	Сказання про Ібора	true
+dilemmas_localised_title_ybor_level_C_2	Сказання про Ібора	true
+dilemmas_localised_title_ybor_level_B_1	Сказання про Ібора	true
+dilemmas_localised_title_ybor_level_C_1	Сказання про Ібора	true
+dilemmas_localised_title_ybor_level_C_4	Сказання про Ібора	true
+dilemmas_localised_description_att_subject_diplomatic_none_the_feast_1	Мій пане! Ми хочемо влаштувати великий бенкет і покликати на нього найкращих людей з усього світу, щоб вони милувалися нашим багатством. Бенкет триватиме дев'яносто днів і ночей. Кого нам слід запросити?	true
+dilemmas_localised_title_att_eos_tanukhids_settle	Танухіди перейшли до осілого способу життя!	true
+dilemmas_localised_title_att_subject_politics_civil_challenger	Вискочка	true
+dilemmas_localised_description_att_subject_military_barb_master_hostile_governor	Місцевий вождь кидає вам виклик. Він проклинає ваші задуми, сумнівається у вашій військовій могутності і навіть насміхається над вашою чоловічою гідністю. Більше того, він відкрито прагне зайняти ваше місце!	true
+dilemmas_localised_description_att_subject_religious_none_the_golden_tongued_1	Місцевий жрець досяг видатних успіхів у наверненні жителів цього села. Він буде корисний в інших регіонах.	true
+dilemmas_localised_title_att_political_action_dilemma_gather_support_opposition	Високопоставлені вороги	true
+dilemmas_localised_description_att_dilemma_religious_manichaeism_religious_sanctions_1	Значну частину нашого населення складають маніхеї. Як з ними слід поводитись?	true
+dilemmas_localised_title_att_subject_military_none_the_lanista_1	Ланіста	true
+dilemmas_localised_description_att_subject_domestic_barb_nomad_hostile_dispute	Ваш безтолковий син побився з видатним представником ворожого племені. Старійшини закликають вас владнати конфлікт, поки він не переріс у війну.	true
+dilemmas_localised_title_att_political_action_dilemma_assassinate_caught	На місці злочину	true
+dilemmas_localised_description_att_dilemma_religious_tengri_religious_sanctions_1	Значну частину нашого населення складають шанувальники Тенгрі. Як з ними поводитися?	true
+dilemmas_localised_title_cha_dilemma_pope_help_1	Обіцянка франків	true
+dilemmas_localised_title_att_bel_request_antoninia_thedosius_1	Прохання Антоніни: Феодосій	true
+dilemmas_localised_title_att_subject_religious_hun_shaman	Лихі знамення	true
+dilemmas_localised_description_political_event_marriage_female	Одна з ваших дочок закохалася і збирається втекти до нареченого. Чи дозволите ви їй піти за покликом серця?	true
+dilemmas_localised_description_cha_dilemma_lombard_pope_demands_1	Понад тридцять років тому батько Карла Великого, король франків Піпін, на прохання папи Стефана II перетнув Альпи і розгромив ломбардців, якими в той час правив Айстульф. Причиною цього був захоплення ломбардцями Равеннського екзархату: понтифік побоювався, що наступним кроком буде Рим. Здобувши перемогу, Піпін пообіцяв передати Папській області всі землі, раніше захоплені ломбардів; цей акт увійшов в історію під назвою «Піпінів дар». Тепер же папа Адріан I вимагає виконати цю обіцянку і повернути Равенну. Ви маєте право йому відмовити, але врахуйте: яким би не було ваше рішення, воно призведе до довгострокових наслідків.	true
+dilemmas_localised_description_cha_dilemma_lombard_pope_demands_2	Розгніваний вашою відмовою, папа звернувся за підтримкою до франків, які, власне, і обіцяли йому Равенну. Його посольство вже прибуло до двору Карла Великого. Якщо ви хочете уникнути війни, терміново приймайте рішення і відправляйте власних послів.	true
+dilemmas_localised_description_cha_dilemma_lombard_pope_demands_3	Ви отримали послання Карла Великого. Монарх оголосив, що беззастережно підтримує папу і церкву, і зажадав виконати всі і будь-які вимоги понтифіка щодо територій, згаданих в «Піпіновому дарі». Якщо ви відмовитеся передати Равенну, вас чекає війна з франками.	true
+dilemmas_localised_description_att_dilemma_religious_celtic_religious_sanctions_1	На наших землях проживає чимало язичників, які поклоняються кельтським богам. Чи варто надати їм рівні права?	true
+dilemmas_localised_description_att_subject_religious_zoroastrian_corpse	Один з ваших підданих замурував труп дружини в стіні свого будинку. Дотик до мертвих - огида і скверна. Як ми вчинимо з цим нечестивцем?	true
+dilemmas_localised_description_ollam_ri_votadini	Віки утисків підірвали дух кельтів, та легенди про їхнє славетне минуле й досі збурюють уяву відважних юнаків. От і молодий король залишив столицю прадавнього острова, щоб здобути знання про майбутнє свого народу. Він неодмінно дізнається його долю — або викує її власноруч!	true
+dilemmas_localised_description_att_subject_domestic_civil_hostile_dispute	Двоюрідний брат зганьбив вас, влаштувавши гучну суперечку на очах у всього чесного народу. Вуличні блазні вже насміхаються над вами.	true
+dilemmas_localised_title_att_subject_religious_arian_pilgrims_1	Паломники	true
+dilemmas_localised_title_att_subject_military_none_the_gift_of_speed_1	Дар швидкості	true
+dilemmas_localised_title_att_subject_domestic_none_withholding_taxes_1	Несплата податків	true
+dilemmas_localised_description_att_subject_politics_barb_nomad_challenger	Один з ваших молодих воїнів став занадто хвалитися своїми заслугами. Він заявляє, що вже вбив більше ворогів, ніж будь-хто інший, а його нащадки будуть найчисленнішими. Схоже, левеня мітить на місце ватажка...	true
+dilemmas_localised_description_att_eos_marib_dam_repair_3	До нас дійшла інформація, що велика Марібська гребля зовсім занепала і вкрилася численними тріщинами. Треба терміново вжити заходів, щоб запобігти її подальшому руйнуванню. Навіть незначний ремонт зменшить можливі збитки і знизить ризик затоплення.	true
+dilemmas_localised_description_att_eos_marib_dam_repair_2	До нас дійшла інформація, що велика Марібська гребля зовсім занепала і вкрилася численними тріщинами. Треба терміново вжити заходів, щоб запобігти її подальшому руйнуванню. Навіть незначний ремонт зменшить можливі збитки і знизить ризик затоплення.	true
+dilemmas_localised_description_att_eos_marib_dam_repair_1	До нас дійшла інформація, що велика Марібська гребля зовсім занепала і вкрилася численними тріщинами. Треба терміново вжити заходів, щоб запобігти її подальшому руйнуванню. Навіть незначний ремонт здатний зменшити можливі збитки і знизити ризик затоплення.	true
+dilemmas_localised_description_att_eos_marib_dam_repair_0	До нас дійшла інформація, що велика Марібська гребля зовсім занепала і вкрилася численними тріщинами. Треба терміново вжити заходів, щоб запобігти її подальшому руйнуванню. Навіть незначний ремонт зменшить можливі збитки і знизить ризик затоплення.	true
+dilemmas_localised_title_att_subject_religious_tengri_pilgrims_1	Паломники	true
+dilemmas_localised_description_att_bel_request_theodosia_amalasuntha_1	Вітаю тебе, полководцю Велісарій. Пишу тобі за рекомендацією твоєї доброї дружини, з якою ми дружили в юності. Тобі, без сумніву, відомо про те, що я суворо обмежую своє втручання в політику, щоб не відволікатися від служіння Господу. Сам факт того, що я тобі пишу, говорить про надзвичайну серйозність ситуації.\\n\\nІмператор, мій найдорожчий чоловік і в цілому добра людина, іноді потребує люблячої руки, яка наставить його на шлях істинний. Не сумніваюся, що ти вже чув про Амаласунту - царицю остготів, ув'язнену в темницю власним народом. Юстиніан сповнений рішучості звільнити її, але я підозрюю, що його мотиви далеко не безгрішні. Ця жінка - справжня змія. Її брехливі промови зачарували серце мого чоловіка. Можеш уявити, яка це буде ганьба: правитель великого Риму під каблуком у варварської повії?\\n\\nМені відомо, що імператор наказав тобі звільнити її. Але якщо ти дійсно хочеш служити йому і імперії, ти повинен порушити цей наказ. Я пом'якшу гнів чоловіка і винагороджу тебе набагато щедріше, ніж він сам. Твоя найдорожча дружина запевнила мене в твоїй розсудливості...	true
+dilemmas_localised_title_att_bel_request_theodosia_pope_1	Прохання Феодори: папа	true
+dilemmas_localised_description_att_subject_religious_tengri_illegal_practice_1	Ця людина викрита в порушенні заборони на поклоніння Тенгрі.	true
+dilemmas_localised_description_att_subject_religious_catholic_illegal_practice_1	Ця людина заарештована за проповідь латинського християнства. У наших землях таке неприпустимо!	true
+dilemmas_localised_description_att_political_action_dilemma_seek_bride_success	Це гідна пара! Але чи погодиться наречений з вибором, який ви зробили за нього?	true
+dilemmas_localised_description_att_subject_military_roman_master_hostile_governor	Місцевий губернатор кинув вам виклик. Він на весь світ заявляє, що ви повинні передати легіони йому.	true
+dilemmas_localised_description_att_political_action_dilemma_diminish_popularity_reversal	Ціною величезних зусиль вам вдалося розпустити потрібні чутки, проте слід все одно веде не до мети, а до вашого агента. Які заходи слід вжити для виправлення цієї помилки?	true
+dilemmas_localised_description_att_subject_religious_hellenic_illegal_practice_1	Ця людина викрита в порушенні заборони на поклоніння старим богам.	true
+dilemmas_localised_description_att_subject_politics_civil_hostage	Римський хлопчик, взятий нами в заручники, виявився досить кмітливим. Він може стати окрасою вашого двору. Як ми з ним вчинимо?	true
+dilemmas_localised_description_att_subject_religious_germanic_illegal_practice_1	Ця людина викрита в порушенні заборони на поклоніння германським язичницьким богам.	true
+dilemmas_localised_description_slav_dilemma_sclaveneans_1	Як і очікувалося, гуни прийшли. Їхні наміри не можна назвати добрими: вони скалять зуби в очікуванні битви. Але ми теж готові битися. Залишається одне питання: як саме? Зайняти оборону і стійко відбивати всі їхні удари? Але їх так багато, що вони можуть задавити нас чисельністю. Ударити першими, зробивши ставку на швидкість і раптовість? Обидва рішення мають свої переваги. Вибір за вами, мій пане.	true
+dilemmas_localised_description_ybor_level_A_langobardi	Молодий воїн Ібор із вашого почту не знаходить спокою у палаці. Ведений жагою до подвигів, він просить дозволу вирушити в дикі землі. Ви не хочете відпускати його, але розумієте: мандри сформують і загартують його характер. Що ви подаруєте Ібору на прощання?	true
+dilemmas_localised_title_ybor_level_A_burgundi	Сказання про Ібора	true
+dilemmas_localised_description_political_event_blackmail	Суперник розпускає брудні плітки про члена вашої родини! Тільки накажіть - і він замовкне назавжди...	true
+dilemmas_localised_description_att_subject_domestic_eastern_the_chovgan_tourney_1	Ходять чутки, що один з ваших полководців збирається взяти участь у турнірі з човгану під чужим ім’ям. Це може принести йому славу, але під час змагань він ризикує зазнати травми.	true
+dilemmas_localised_title_att_subject_religious_arian_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_subject_politics_barb_nomad_tribal_loyalty	Вірність племені	true
+dilemmas_localised_title_att_subject_domestic_none_workers_on_strike_1	Страйк	true
+dilemmas_localised_title_slav_dilemma_anteans_1	Вівця в римській шкурі	true
+dilemmas_localised_title_slav_dilemma_anteans_2	Вівця в римській шкурі	true
+dilemmas_localised_title_att_dilemma_religious_christian_the_manichean_heresy_1	Маніхейська єресь	true
+dilemmas_localised_title_ollam_ri_A1i	Сага про короля-оллама	true
+dilemmas_localised_description_slav_dilemma_venedians_1	Як і очікувалося, гуни прийшли. Всі, хто відмовився виконати їхні вимоги, зустріли жорстоку смерть. Гуни можуть скільки завгодно говорити про мир, але не варто обманюватися їх підступними посмішками - їм потрібна тільки данина. Ми можемо виграти час, заплативши її, але вони неминуче повернуться за більшим. Хто знає, скільки вони зажадають наступного разу? Ми можемо кинути виклик їм і самій долі, відмовившись платити. З одного боку, це розлютить гунів, з іншого - є шанс, що наша рішучість викличе у них повагу. Вибір за вами, мій пане, але пам'ятайте: гуни не люблять чекати...	true
+dilemmas_localised_description_slav_dilemma_venedians_3	Як і очікувалося, гуни повернулися. Незадоволені нашою останньою «подачкою», вони вимагають більшої частки наших багатств і дарів землі. Вогонь, що палає в їхніх очах, свідчить про суворість їхніх намірів. Ми можемо поступитися і заплатити данину, але можемо і проявити рішучість. Гуни люті і безжальні, але у нас є шанс увійти в історію, здобувши над ними перемогу...	true
+dilemmas_localised_description_slav_dilemma_venedians_2	Як і очікувалося, гуни повернулися. Незадоволені нашою останньою «подачкою», вони вимагають більшої частки наших багатств і дарів землі. Вогонь, що палає в їхніх очах, говорить про суворість їхніх намірів. Ми можемо поступитися і заплатити данину, але можемо і проявити рішучість. Гуни люті і безжальні, але у нас є шанс увійти в історію, здобувши над ними перемогу...	true
+dilemmas_localised_description_slav_dilemma_venedians_4	Як і очікувалося, гуни повернулися. Незадоволені нашою останньою «подачкою», вони вимагають більшої частки наших багатств і дарів землі. Вогонь, що палає в їхніх очах, говорить про суворість їхніх намірів. Ми можемо поступитися і заплатити данину, проте можемо і проявити рішучість. Гуни люті і безжальні, але у нас є шанс увійти в історію, здобувши над ними перемогу...	true
+dilemmas_localised_title_att_dilemma_religious_christian_council_of_carthage_1	Карфагенський собор	true
+dilemmas_localised_title_att_subject_religious_tengri_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_att_political_action_dilemma_seek_bride_success	Гідна пара	true
+dilemmas_localised_title_cha_dilemma_cordoba_1	Халіфат Аббасидів	true
+dilemmas_localised_description_att_subject_religious_catholic_pilgrims_1	Сотні латинських християн приходять на наші землі в надії побачити храм Гробу Господнього, що на Голгофі. Якщо ці паломництва залишити без уваги, вони можуть перетворитися на повномасштабну міграцію. Їх потрібно заборонити!	true
+dilemmas_localised_title_att_bel_request_theodosia_amalasuntha_1	Прохання Феодори: Амаласунта	true
+dilemmas_localised_description_att_subject_religious_tengri_pilgrims_1	На річці Галіс знаходиться святиня шанувальників Тенгрі, які в великій кількості йдуть туди разом зі своїми юртами і кіньми. Якщо побажаєте, ми можемо заборонити їм прохід.	true
+dilemmas_localised_description_att_subject_domestic_civil_master_agitator	Один честолюбний політик планує нажитися за ваш рахунок. Він уже завоював підтримку народу, запропонувавши, щоб ви розібралися з боргами місцевих землеробів.	true
+dilemmas_localised_title_att_subject_domestic_none_the_festival_1	Свято	true
+dilemmas_localised_title_att_dilemma_domestic_roman_saint_telemachus_1	Святий Телемах	true
+dilemmas_localised_title_ollam_ri_picti	Сага про короля-оллама	true
+dilemmas_localised_title_ybor_level_A_langobardi	Сказання про Ібора	true
+dilemmas_localised_description_att_subject_politics_nomad_hostage	Хлопчик, якого ми взяли в заручники, перейняв наші звичаї. Він чудово їздить верхи і влучно стріляє з лука. Як ми з ним вчинимо?	true
+dilemmas_localised_description_att_subject_religious_germanic_pilgrims_1	У сусідньому лісі збираються сотні шанувальників Бальдура. Напевно, вони проводять там свої нечестиві ритуали. Можливо, нам варто втрутитися?	true
+dilemmas_localised_description_att_subject_religious_hellenic_pilgrims_1	Місце, де стояв храм Аполлона, зруйнований імператором Феодосієм, досі приваблює шанувальників цього язичницького бога.	true
+dilemmas_localised_description_att_subject_politics_roman_hostage	Перський хлопчик, взятий нами в заручники, виріс справжнім римлянином. Він досягає вражаючих успіхів. Якою буде подальша доля цього юнака?	true
+dilemmas_localised_description_att_dilemma_religious_zoroastrian_the_manichean_heresy_1	Мобеди стурбовані поширенням маніхейства в наших землях. Вони зібралися, щоб вирішити долю цього сумнівного культу.	true
+dilemmas_localised_title_att_subject_diplomatic_none_diplomatic_dispute_1	Дипломатична суперечка	true
+dilemmas_localised_title_att_eos_religious_event_rebellion_att_fact_axum_att_rel_semitic_paganism	Верховний жрець Альмакі - зречення	true
+dilemmas_localised_title_political_event_marriage_male	Гідна пара?	true
+dilemmas_localised_description_att_subject_religious_celtic_illegal_practice_1	Ця жінка здійснювала жертвоприношення на власноруч побудованому вівтарі Суцелла, поклоніння якому ми заборонили.	true
+dilemmas_localised_description_att_dilemma_religious_christian_the_council_of_toledo_1	400 р., Толедо, Іспанія. На цьому соборі дев'ятнадцять єпископів затвердили Нікейський Символ віри, але його головною темою була присцилліанська єресь. Навіть після смерті засновника ця секта продовжила набирати послідовників. Чи варто нам миритися з її існуванням?	true
+dilemmas_localised_title_cha_dilemma_carloman_succession	Спадщина Карломана	true
+dilemmas_localised_title_slav_dilemma_venedians_1	Між молотом і ордою	true
+dilemmas_localised_title_slav_dilemma_venedians_3	Між молотом і ордою	true
+dilemmas_localised_title_slav_dilemma_venedians_2	Між молотом і ордою	true
+dilemmas_localised_title_slav_dilemma_venedians_4	Між молотом і ордою	true
+dilemmas_localised_title_att_subject_religious_celtic_pilgrims_1	Паломники	true
+dilemmas_localised_description_att_subject_domestic_none_the_festival_1	Ми вже давно не влаштовували свят. Хоча вони могли б підняти настрій нашого народу. Кому або чому ми присвятимо прийдешні урочистості?	true
+dilemmas_localised_description_att_subject_religious_christian_the_black_sheep_1	Сестра одного з наших популярних священиків викрита в поклонінні язичницьким богам. За канонами Церкви, носій сану повинен бути вихідцем із повністю християнської родини...	true
+dilemmas_localised_description_ollam_ri_A1i	Побачивши, як король пригостив кішку молоком, господиня тварини була вражена його добротою. Вона розповіла, що в сусідньому селі зберігається відрубана королівська голова, яка благає принести їй цілющої води з далекого струмка. Жінка дала нашому герою чашу і розповіла, як знайти струмок.	true
+dilemmas_localised_description_att_subject_religious_christian_the_money_lender_1	Настоятель місцевої церкви позичає гроші парафіянам під відсоток. Згідно з рішенням Карфагенського собору, священики не мають права займатися лихварством. Як ми з ним вчинимо?	true
+dilemmas_localised_description_att_subject_military_none_mercenary_commander_1	У вас просить аудієнції командир найманців. Його воїни готові служити нашій справі за умови, що ми заплатимо наперед...	true
+dilemmas_localised_title_cha_dilemma_mercia_2_2	Набуття таланту	true
+dilemmas_localised_description_att_subject_diplomatic_none_diplomatic_dispute_1	На жаль, один із гостей виставив себе дурнем. Я нічого не зміг з цим вдіяти. Він образив весь наш народ; на нього вже надійшла офіційна скарга.	true
+dilemmas_localised_title_political_event_assassination	Змова вбивць	true
+dilemmas_localised_description_ollam_ri_B	Король-оллам побачив трьох синів Туйреанна, покритих кров'ю. Селяни звинувачують їх у вбивстві місцевого короля Кіана. Брати благають про пощаду, стверджуючи, що Кіан перетворився на свиню і вони його не впізнали. Якщо їх відпустять, вони готові принести свинячу шкуру і продемонструвати її чарівні властивості.	true
+dilemmas_localised_description_ollam_ri_A	Старий, що сидів на березі, загадав королю загадку, в разі правильної відповіді обіцяючи поділитися Лососем мудрості. «Спочатку я був грізною зброєю, а потім юний слуга покрив мене золотою і срібною філігранню. Іноді люди припадають до мене губами, а іноді мій голос кличе їх на битву».	true
+dilemmas_localised_description_att_eos_religious_event_rebellion_att_fact_axum_att_rel_semitic_paganism	Досить ми терпіли твою поблажливість до цієї чужої і нечестивої віри! На початку свого правління ти обіцяв, що ми будемо процвітати, не боячись нападок з боку твоїх одновірців. Але тепер ми знаємо, що це були порожні слова, і твоя головна мета - знищити нашу віру і всіх, хто її шанує. Ми не можемо повернути час назад, але ми вимагаємо гідного поводження. Принеси нам золоті дари, щоб ми могли жити, не боячись, і відповідно до наших уявлень. Я прошу смиренно, але пам'ятай: мої послідовники - люди на межі відчаю, і якщо їх прохання не буде задоволено, то може пролитися кров. Зроби ж нарешті мудрий вибір, повелитель.	true
+dilemmas_localised_description_att_eos_sassanid_insult_1	Сасанідський шахіншах запросив вас на обід у свій розкішний літній палац, який ви побудували за його наказом на околиці Хіри. Коли вино розв'язало йому язик, він почав незаслужено ображати ваш народ:\\n"Не бачу в арабах ніякого добра - ні тілесного, ні духовного! У них немає ні сили, ні могутності, їх місце серед звірів! Вони позбавлені найпростіших радощів життя: хорошої їжі, пиття і одягу. Вони їдять смердючу верблюжатину, якою гидують навіть леви. Тобі самому не огидно правити таким нікчемним народом?"	true
+dilemmas_localised_description_att_eos_sassanid_insult_2	Закрутивши очі, шахіншах підхопився на ноги.\\n"Якби твоя мудрість не поступалася твоїй гордості! Ви, араби, вважаєте за чесноту нагодувати гостя і оспівуєте це в віршах. Ниці, жалюгідні і нікчемні, ви все одно сповнені зарозумілості! Ви терпите голод, злидні і лиха - і ставите себе вище за всі інші народи! Скажи мені, чим вам пишатися?"	true
+dilemmas_localised_description_att_eos_sassanid_insult_3	Ваша згода не заспокоїла шахіншаха, а лише посилила його презирство. "Де ж хвалена арабська гордість? Чому ти не сказав ні слова на захист свого народу і навіть не дорікнув мені розпустою, в якій, я знаю, ви нас звинувачуєте? Мабуть, спробувавши смак нашого життя, ти повною мірою оцінив нікчемність і безглуздість свого колишнього існування. Я радий, що мені служать такі натхненні люди, але ще більше я б зрадів, якби мені вдалося зламати їхній дух. Визнай, що традиції Сасанідів вищі за звичаї твого власного племені, і я проявлю до тебе велику милість!"	true
+dilemmas_localised_title_att_subject_military_none_war_child_1	Дитя війни	true
+dilemmas_localised_description_att_political_action_dilemma_diminish_popularity_followup_merciful	Жертва публічно зганьблена і опинилася в скрутному становищі. Якщо ви втрутитеся, вона буде вам вдячна...	true
+dilemmas_localised_title_att_subject_diplomatic_none_turncoat_1	Перебіжчик	true
+dilemmas_localised_title_att_dilemma_religious_zoroastrian_the_manichean_heresy_1	Маніхейська єресь	true
+dilemmas_localised_description_att_subject_religious_orthodox_illegal_practice_1	Хоч ми і заборонили грецьке християнство, цей нечестивець продовжує сповідувати його.	true
+dilemmas_localised_description_att_subject_religious_celtic_pilgrims_1	На пагорбі біля моря стоїть кам'яне коло, на якому кельти здавна проводять свої ритуали. Ми повинні заборонити ці варварські культи!	true
+dilemmas_localised_description_att_subject_domestic_nordic_the_flyting_1	Цієї ночі у великій залі шляхетні мужі збираються влаштувати змагання в лихослів'ї. Не хочете взяти участь? Якщо ні, то вас представлятиме один з ваших полководців.	true
+dilemmas_localised_description_att_bel_request_theodosia_pope_1	О благословенний Велісарій, ти в усіх відношеннях належиш до тих праведників, чиї земні діяння поступаються лише незліченним заслугам перед Господом. Люди, які, подібно до тебе, ставлять майбутнє життя вище за смертний світ, завжди раді почути про нову можливість наблизити Царство Небесне на цій грішній землі.\\n\\nРадій же, Велісарій, бо моє сьогоднішнє прохання буде саме таким. Папа Сильвестр, поставлений готами, є порочний і душею, і розумом. У нього знайшли листи на підтримку остготських бунтівників. Незважаючи на чутки, які ходять навколо цих листів, у мене немає ні найменших сумнівів у їхній справжності. Вже багато разів, прагнучи об'єднати віруючих, я закликала його примиритися зі священством Константинополя, але всі мої спроби зустрічали рішучу відмову. Займаючи папський престол, він своєю єрессю прирікає на вічне прокляття тисячі людей. Вага його пороку переважає будь-які мирські гріхи! Імператор вирішив проявити делікатність і не втручатися, але я знаю, що в своєму серці він бажає, щоб хтось подбав про цю проблему. Можливо, цим святим воїном станеш ти?	true
+dilemmas_localised_title_att_dilemma_military_none_war_child_1	Дитя війни	true
+dilemmas_localised_title_att_subject_religious_celtic_illegal_practice_1	Заборонені ритуали	true
+dilemmas_localised_title_cha_dilemma_viking_1_cha_fact_northumbria	Неспокійні воїни	true
+dilemmas_localised_title_att_dilemma_religious_christian_the_council_of_toledo_1	Толедський собор	true
+dilemmas_localised_description_cha_dilemma_carloman_succession	Напруга в королівстві наростає. Настав час вирішити, як ви вчините зі спадщиною свого брата: яким би не було ваше рішення, воно стане доленосним для всіх франків. Якщо ви вважаєте себе законним претендентом на землі Карломана, не втрачайте часу і збирайте війська. З огляду на роздробленість володінь покійного брата, з суперниками можна буде покінчити одним рішучим ударом. З іншого боку, підтримавши сина Карломана, ви закладете основи довгих і міцних зв'язків між державами; можливо, в майбутньому два королівства франків стануть діяти як єдине ціле. Вирішуйте, Карл Великий. Вибір за вами!	true
+dilemmas_localised_description_cha_dilemma_charlemagne_daughter_1	Юність рідко буває розсудливою, а розплачуватися за гріхи дітей доводиться батькам. Чутки про вашу дочку, яку ви вважали чистою і невинною, виявилися правдою: ви застали її з місцевим юнаком. Її ім'я у всіх на вустах, а ваша репутація під загрозою. У вас є два виходи: покарати дочку... або пліткарів.	true
+dilemmas_localised_description_att_eos_religious_event_rebellion_att_fact_himyar_att_rel_judaism	Досить ми терпіли твою поблажливість до цієї чужої і нечестивої віри! На початку свого правління ти обіцяв, що ми будемо процвітати, не боячись нападок з боку твоїх одновірців. Але тепер ми знаємо, що це були порожні слова, і твоя головна мета - знищити нашу віру і всіх, хто її шанує. Ми не можемо повернути час назад, але ми вимагаємо гідного поводження. Принеси нам золоті дари, щоб ми могли жити, не боячись, і відповідно до наших уявлень. Я прошу смиренно, але пам'ятай: мої послідовники - люди на межі відчаю, і якщо їх прохання не буде задоволено, то може пролитися кров. Зроби ж нарешті мудрий вибір, повелитель.	true
+dilemmas_localised_title_att_subject_religious_none_the_relic_seller_1	Торговець реліквіями	true
+dilemmas_localised_description_att_bel_request_justinian_narses_1	Вітаю тебе, Велісарій. Звістки про твої численні успіхи вдень і вночі лунають у моїх вухах: якщо вірити тому, що кажуть у місті, ти виганяєш остготів з Італії власними голими руками! Але, мушу визнати, я трохи розчарований тим, що особиста доблесть для тебе важливіша за відродження імперії... Втім, неважливо: поки мій план втілюється, я задоволений.\\n\\nЩоб прискорити події і трохи полегшити твій непосильний тягар, я висилаю тобі на допомогу Нарсеса. Він непогано розбирається в тактиці і, що найголовніше, надійний. У нього немає ніяких особистих амбіцій, тому йому безумовно можна довіряти. Прошу тебе, сприйми його призначення не як сумнів у твоїх силах, для якого просто не залишається місця в світлі твоїх останніх досягнень, а як заслужену нагороду. Наполягаю, щоб ти особисто переконався в його корисності на полі бою.	true
+dilemmas_localised_description_att_subject_religious_none_the_holy_site_1	Сьогодні я побачив на своєму полі цілу юрбу людей. За їхніми словами, на цьому місці святий Віт відпочивав дорогою до Риму. Вони витоптали мені весь урожай!	true
+dilemmas_localised_title_att_subject_military_none_mercenary_commander_1	Капітан найманців	true
+dilemmas_localised_description_att_subject_politics_civil_secret_meetings	Ходять чутки, що ваші політичні суперники періодично влаштовують зустрічі в тихих безлюдних місцях. Що вони обговорюють на цих таємних зборах? Сподіваюся, що не вас...	true
+dilemmas_localised_title_ybor_level_A_alamanni	Сказання про Ібора	true
+dilemmas_localised_description_att_political_action_dilemma_assassinate_wound_suspicious	Спроба замаху провалилася: незважаючи на поранення, жертва залишилася живою. Тепер вам доведеться відповісти на безліч складних питань...	true

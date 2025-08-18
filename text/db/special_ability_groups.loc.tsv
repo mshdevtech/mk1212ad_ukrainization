@@ -1,0 +1,16 @@
+key	text	tooltip
+#Loc;1;text/db/special_ability_groups.loc		
+special_ability_groups_name_Commander	Командир	true
+special_ability_groups_name_Navigator	Навігатор	true
+special_ability_groups_name_Defender	Захисник	true
+special_ability_groups_tooltip_Opportunist	Опортуніст (армія)||Ваші воїни не втрачають можливості завдати швидкого і нищівного удару ворогу.\\n\\n[[col:green]]«Швидкий натиск» III[[/col]]	true
+special_ability_groups_tooltip_Augur	Авгур (армія)||Боячись зловісних знамень, вороги не застосовують свої вміння проти ваших військ.\\n\\n[[col:green]]«Страх» III[[/col]]	true
+special_ability_groups_name_Mariner	Моряк	true
+special_ability_groups_name_Scourge	Бич	true
+special_ability_groups_tooltip_Commander	Командир (армія)||Короткочасне підвищення бойового духу ваших воїнів.\\n\\n[[col:green]]«Згуртування» III[[/col]]	true
+special_ability_groups_tooltip_Defender	Захисник (армія)||Ваші воїни краще підготовлені до натиску ворожої кінноти.\\n\\n[[col:green]]«Готовність» III[[/col]]	true
+special_ability_groups_tooltip_Navigator	Навігатор (флот)||Веслярі ваших кораблів настільки сильні, що здатні впоратися з будь-яким вітром.\\n\\n[[col:green]]«Натиснути на весла» III[[/col]]	true
+special_ability_groups_name_Opportunist	Опортуніст	true
+special_ability_groups_tooltip_Mariner	Моряк (флот)||Ваші воїни, звиклі до морської стихії, б'ють і стріляють точніше.\\n\\n[[col:green]]«Натхнення» III[[/col]]	true
+special_ability_groups_tooltip_Scourge	Бич (армія)||Ледь почувши про наближення ваших військ, вороги втрачають бойовий дух і волю до перемоги.\\n\\n[[col:green]]«Бойовий клич» III[[/col]]	true
+special_ability_groups_name_Augur	Авгур	true

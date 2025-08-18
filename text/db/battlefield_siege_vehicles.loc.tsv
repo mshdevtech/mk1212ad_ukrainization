@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/db/battlefield_siege_vehicles.loc		
+battlefield_siege_vehicles_onscreen_name_siege_ladder_8m	Драбина	true
+battlefield_siege_vehicles_onscreen_name_siege_ladder_15m	Драбина	true
+battlefield_siege_vehicles_onscreen_name_battering_ram_heavy	Важкий таран	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_8m_light	Легка облогова вежа	true
+battlefield_siege_vehicles_description_battering_ram_medium	Середній таран, захищений шкірою, дозволяє зносити ворота, підриваючи при цьому бойовий дух захисників міста.	true
+battlefield_siege_vehicles_description_siege_tower_8m_medium	Покращена шкіряна броня для захисту загону під час штурму стін.	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_8m_heavy	Важка облогова вежа	true
+battlefield_siege_vehicles_onscreen_name_battering_ram_light	Легкий таран	true
+battlefield_siege_vehicles_onscreen_name_mk_siege_tower_15m_fire_siphon	Облогова вежа з вогнеметним сифоном	true
+battlefield_siege_vehicles_description_siege_tower_15m_light	Дозволяє швидко піднятися на стіни, при цьому надаючи невеликий захист людям, що знаходяться всередині.	true
+battlefield_siege_vehicles_description_siege_ladder_15m	Відкрита драбина дозволяє потрапляти в поселення, при цьому під час підйому бійці повністю беззахисні.	true
+battlefield_siege_vehicles_description_battering_ram_heavy	Важкий таран із залізними пластинами дозволяє зносити ворота, підриваючи при цьому бойовий дух захисників міста.	true
+battlefield_siege_vehicles_description_siege_ladder_8m	Відкрита драбина дозволяє потрапляти в поселення, при цьому під час підйому бійці повністю беззахисні.	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_15m_medium	Середня облогова вежа	true
+battlefield_siege_vehicles_description_siege_tower_8m_light	Дозволяє швидко піднятися на стіни, при цьому надаючи невеликий захист людям, що знаходяться всередині.	true
+battlefield_siege_vehicles_onscreen_name_battering_ram_medium	Середній таран	true
+battlefield_siege_vehicles_description_siege_tower_8m_heavy	За рахунок залізних пластин надає загонам чудовий захист при штурмі стін.	true
+battlefield_siege_vehicles_onscreen_name_mk_siege_tower_8m_fire_siphon	Обложна вежа з вогнеметним сифоном	true
+battlefield_siege_vehicles_description_battering_ram_light	Легкий таран з дерев'яним каркасом дозволяє зносити ворота, підриваючи при цьому бойовий дух захисників міста.	true
+battlefield_siege_vehicles_description_siege_tower_15m_heavy	За рахунок залізних пластин дає загонам чудовий захист при штурмі стін.	true
+battlefield_siege_vehicles_description_siege_tower_15m_medium	За рахунок шкіряної броні дає загонам додатковий захист при штурмі стін.	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_8m_medium	Середня облогова вежа	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_15m_heavy	Важка облогова вежа	true
+battlefield_siege_vehicles_description_mk_siege_tower_8m_fire_siphon	Універсальний засіб для очищення стін від захисників, вороги і не посміють стати на шляху цих пекельних чудовиськ. Але з вогнем борються вогнем: паливо в їх звірячих утробах надзвичайно вогненебезпечне і може спалахнути в будь-який момент.	true
+battlefield_siege_vehicles_onscreen_name_siege_tower_15m_light	Легка облогова вежа	true
+battlefield_siege_vehicles_description_mk_siege_tower_15m_fire_siphon	Універсальний засіб для очищення стін від захисників, вороги і не посміють стати на шляху цих пекельних чудовиськ. Але з вогнем борються вогнем: паливо в їх звіриних утробах надзвичайно вогненебезпечне і може спалахнути в будь-який момент.	true

@@ -1,0 +1,145 @@
+key	text	tooltip
+#Loc;1;text/db/unit_description_strengths_weaknesses_texts.loc		
+unit_description_strengths_weaknesses_texts_text_mk_caroccio	Карроччо||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel_renown+num-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis-num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_transport	Дуже низька міцність||Дуже низька швидкість||Мала сила тарана	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis_renown+num-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid-num	Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_mk_kharash	Губка для стріл||Живий щит||Беззбройні||	true
+unit_description_strengths_weaknesses_texts_text_mk_warwagon	Бойові вози	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel_merc-num	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_two	Дуже висока міцність||Дуже малий розмір команди||Висока швидкість||Слабкий таран||Добрий абордаж	true
+unit_description_strengths_weaknesses_texts_text_polybolos	Висока завдана шкода||Добра точність||Середній радіус||Дуже висока швидкість стрільби	true
+unit_description_strengths_weaknesses_texts_text_spear_avg	Сильні в обороні||Низька завдана шкода, середнє пробивання броні||Середня атака||Нормальний бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_scorpio_hft_seven	Виняткова міцність||Величезна команда||Дуже низька швидкість||Потужний таран||Добрий абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis_merc-num	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_axemen_good	Сильна атака||Середній захист||Низька завдана шкода, але добре пробивання броні||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_four	Середня міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Добрі стрільці	true
+unit_description_strengths_weaknesses_texts_text_heavy_raider	Дуже висока міцність||Середня команда||Середня швидкість||Середній таран||Дуже добрий абордаж	true
+unit_description_strengths_weaknesses_texts_text_two_halfer	Низька міцність||Середня команда||Невловимий||Слабкий таран||Поганий абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_renown	Прославлений загін||Відмінні здібності||Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_double_scorpio_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_melee_avg	Сильна атака||Середній захист||Середня шкода, погане пробивання броні||Нормальний бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis_renown+num-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel+num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid+stat	Здатні вести як ближній, так і дальній бій||Усталені традиції||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel_renown+num-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_all+num-cost	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_all-num+cost	Нетрадиційні для фракції||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_renown_merc	Прославлений загін||Відмінні здібності||Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_mk_all_+cost	Нетрадиційні для фракції||Збільшена вартість	true
+unit_description_strengths_weaknesses_texts_text_mk_all_-cost	Усталені традиції фракції||Дешевше обходяться для фракції	true
+unit_description_strengths_weaknesses_texts_text_one_halfer	Дуже низька міцність||Малий розмір команди||Дуже висока швидкість||Слабкий таран||Дуже поганий абордаж||Погані стрільці	true
+unit_description_strengths_weaknesses_texts_text_javelinmen	Малий радіус||Висока швидкість стрільби||Дуже високі завдані пошкодження і пробивання броні||Дуже слабкі в ближньому бою||Дуже низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_placeholder	placeholder	true
+unit_description_strengths_weaknesses_texts_text_harpax_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Нестримний абордаж	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis+num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis-num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_elephant_armoured	Дуже сильний натиск||Висока завдана шкода||Дуже багато очок здоров'я||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_pike_good	Дуже сильні в обороні||Низька завдана шкода, середнє пробивання броні||Середня атака||Високий бойовий дух||Вкрай вразливі не у фалангах	true
+unit_description_strengths_weaknesses_texts_text_pike_poor	Середні показники в обороні||Низька завдана шкода, середнє пробивання броні||Середня атака||Низький бойовий дух||Вкрай вразливі не у фалангах	true
+unit_description_strengths_weaknesses_texts_text_melee_poor	Середня атака||Слабкий захист||Середня шкода, погане пробивання броні||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_melee_good	Дуже сильна атака||Середній захист||Середня шкода, погане пробивання броні||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel+stat-num	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel_merc-num	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_fire_pot_two	Дуже низька міцність||Дуже маленька команда||Висока швидкість||Дуже велика початкова сила тарана||Добрий абордаж	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel_renown	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis_renown	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_archer_cav	Великий радіус||Середня швидкість стрільби||Швидке переміщення||Висока завдана шкода, але погане пробивання броні||Дуже слабкі в ближньому бою||Дуже низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid+num+stat-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_javelin_cav	Малий радіус||Висока швидкість стрільби||Швидке переміщення||Дуже висока завдана шкода і пробивання броні||Великий щит||Дуже слабкі в ближньому бою||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Дуже добрий абордаж	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis_merc-num	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_onager_five	Висока міцність||Мінімальний розмір команди||Середня швидкість||Середній таран||Незначний абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_spear_good	Дуже сильні в обороні||Низька завдана шкода, середнє пробивання броні||Середня атака||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_spear_poor	Середні показники в обороні||Низька завдана шкода, середнє пробивання броні||Слабка атака||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel-num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_merc	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_mob	Дуже низька завдана шкода і пробивання броні||Дуже слабкі в ближньому бою||Дуже низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_all-num-cost	Рідкісний загін||Зменшена кількість бійців у загоні	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_all+num-cost	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_barbarian_transport	Дуже низька міцність||Дуже низька швидкість||Слабкий таран	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel_merc+stat	Найманці||Досвідчені фахівці||Можуть бути недостатньо надійними||Традиції фракції	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis_merc+stat	Найманці||Досвідчені фахівці||Можуть бути недостатньо надійними||Традиції фракції	true
+unit_description_strengths_weaknesses_texts_text_medium_raider_melee	Висока міцність||Середня команда||Висока швидкість||Слабкий таран||Добрий абордаж	true
+unit_description_strengths_weaknesses_texts_text_raider_melee	Середня міцність||Невеликий розмір команди||Дуже висока швидкість||Слабкий таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid+stat-cost	Здатні вести як ближній, так і дальній бій||Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_medium_raider_ranged	Висока міцність||Середня команда||Висока швидкість||Слабкий таран||Поганий абордаж||Добрі стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_elephant_amda_seyon	Особистий слон Амде-Цийона||Зменшена кількість слонів у загоні||	true
+unit_description_strengths_weaknesses_texts_text_ballista_giant	Добра точність||Дуже великий радіус||Середня швидкість стрільби||Більше завдається шкоди, ніж звичайною балістою||Більша міцність, ніж у звичайної балісти||Нерухома	true
+unit_description_strengths_weaknesses_texts_text_mk_poorly_trained_rabble_missile	Низькопробний стрілецький загін	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel+stat-cost	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis+stat-cost	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_scorpio_three	Низька міцність||Малий розмір команди||Висока швидкість||Слабкий таран||Середній абордаж||Добрі стрільці	true
+unit_description_strengths_weaknesses_texts_text_archers_elite	Великий радіус||Висока швидкість стрільби||Висока завдана шкода, але погане пробивання броні||Дуже слабкі в ближньому бою||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel_renown+num	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel_renown-num	Прославлений загін||Відмінні здібності||Рідкісний загін||Зменшена кількість бійців у загоні||Коштує недешево	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis_renown+num	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis_renown-num	Прославлений загін||Відмінні здібності||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid-num+stat	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_pike_avg	Сильні в обороні||Низька завдана шкода, середнє пробивання броні||Середня атака||Нормальний бойовий дух||Вкрай вразливі, якщо не у фаланзі	true
+unit_description_strengths_weaknesses_texts_text_double_hft_eight	Неперевершена міцність||Величезна команда||Дуже мала швидкість||Потужний таран||Нестримний абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis_renown_merc	Прославлений загін||Відмінні здібності||Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_good	Дуже сильний натиск і атака||Високі пошкодження і пробивання броні||Слабкий захист||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_renown+num-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_good	Дуже сильна атака||Середній захист||Низька завдана шкода, середнє пробивання броні||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_poor	Середній натиск і атака||Високі пошкодження і пробивання броні||Слабкий захист||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_poor	Середня атака||Слабкий захист||Низька завдана шкода, середнє пробивання броні||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_peltasts	Малий радіус||Висока швидкість стрільби||Дуже висока завдана шкода і пробивання броні||Великий щит||Дуже слабкі в ближньому бою||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_ballista	Висока точність||Дуже великий радіус||Висока швидкострільність||Завдає менше шкоди, ніж інші машини||Легко знищується	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis+stat	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_ballista_five	Середня міцність||Мінімальна команда||Середня швидкість||Середній таран||Незначний абордаж||Чудові стрільці	true
+unit_description_strengths_weaknesses_texts_text_shock_inf_avg	Сильний натиск і атака||Високі пошкодження і пробивання броні||Слабкий захист||Середній бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_slingers	Дуже великий радіус||Середня швидкість стрільби||Низька завдана шкода, середнє пробивання броні||Дуже слабкі в ближньому бою||Дуже низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_all+num	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_all-num	Нетрадиційні для фракції||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_all+num	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_all-num	Нетрадиційні для фракції||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_war_dogs	Дуже сильна атака||Ефективні проти загонів у легкій броні||Дресирувальники слабкі в ближньому бою	true
+unit_description_strengths_weaknesses_texts_text_war_pigs	Лякають слонів||Тварини не атакують||Дресирувальники слабкі в ближньому бою	true
+unit_description_strengths_weaknesses_texts_text_barbarian_five	Середня міцність||Середня команда||Середня швидкість||Середній таран||Поганий абордаж||Добрі стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel_merc	Найманці||Досвідчені фахівці||Можуть бути недостатньо надійними||Традиції фракції	true
+unit_description_strengths_weaknesses_texts_text_barbarian_four	Середня міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_avg	Сильний натиск||Низька завдана шкода, середнє пробивання броні||Слабкі в тривалому ближньому бою||Середній бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis_renown+num	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis_renown-num	Прославлений загін||Відмінні здібності||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel_renown+num	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel_renown-num	Прославлений загін||Відмінні здібності||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_archer_cav_elite	Великий радіус||Висока швидкість стрільби||Швидке переміщення||Висока завдана шкода, але погане пробивання броні||Дуже слабкі в ближньому бою||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_merc-num	Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||Здатні вести як ближній, так і дальній бій||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_melee_cav_avg	Сильна атака||Середній захист||Низька завдана шкода, середнє пробивання броні||Середній бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_raider_ranged	Висока міцність||Середня команда||Висока швидкість||Слабкий таран||Поганий абордаж||Добрі стрільці	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel_renown_merc	Прославлений загін||Відмінні здібності||Найманці||Досвідчені фахівці||Дорогі||Можуть бути недостатньо надійними||	true
+unit_description_strengths_weaknesses_texts_text_archers	Великий радіус||Середня швидкість стрільби||Висока завдана шкода, але погане пробивання броні||Дуже слабкі в ближньому бою||Дуже низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis-morale+stat	Нерегулярні війська||Відмінні здібності внаслідок похідного життя||Але недостатньо надійні	true
+unit_description_strengths_weaknesses_texts_text_chariot_scythed	Швидке переміщення||Дуже сильний натиск||Середній ближній бій||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_all_bare_stirrup	Застарілий спосіб верхової їзди||Вершники можуть бути відмінними наїзниками, але в цілому поступаються тим, хто має сідла і широкі стремена||	true
+unit_description_strengths_weaknesses_texts_text_mk_all_+morale	Організовані||Підвищений бойовий дух||	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_good	Дуже сильний натиск||Низька завдана шкода, середнє пробивання броні||Слабкі в тривалому ближньому бою||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_poor	Середній натиск||Низька завдана шкода, середнє пробивання броні||Слабкі в тривалому ближньому бою||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_general	Малий розмір загону||Середня атака||Середній захист||Низька завдана шкода, середнє пробивання броні||Надихає найближчих союзників||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_none	Пересічний загін	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mis_merc	Найманці||Досвідчені фахівці||Можуть бути недостатньо надійними||Традиції фракції	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid	Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_eight	Неперевершена міцність||Величезна команда||Дуже мала швидкість||Потужний таран||Нестримний абордаж	true
+unit_description_strengths_weaknesses_texts_text_axemen	Середня атака||Низький захист||Низька завдана шкода, але добре пробивання броні||Низький бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_elephant	Дуже сильний натиск||Висока завдана шкода||Багато очок здоров'я||Середній бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_chariot	Висока швидкість||Метання дротиків в русі||Сильний натиск||Слабкі в тривалому ближньому бою||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_onager	Великий радіус||Висока завдана шкода різними снарядами||Важко знищити||Низька точність||Низька швидкість стрільби	true
+unit_description_strengths_weaknesses_texts_text_mk_elephant_cannon_naft	Слони, озброєні знаряддям хатнал або нафтою||Зменшена кількість слонів у загоні||	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel+stat	Усталені традиції||Полегшений найм внаслідок традицій||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mel+num+stat-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_mis+num+stat-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mel+num+stat-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_mk_cav_mis+num+stat-cost	Прославлений загін||Відмінні здібності||	true
+unit_description_strengths_weaknesses_texts_text_seven	Виключно висока міцність||Величезна команда||Дуже низька швидкість||Потужний таран||Добрий абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_three	Низька міцність||Невеликий розмір команди||Висока швидкість||Слабкий таран||Поганий абордаж||Середні стрільці	true
+unit_description_strengths_weaknesses_texts_text_scorpion	Висока завдана шкода||Мобільність||Висока точність||Невеликий радіус||Середня швидкість стрільби	true
+unit_description_strengths_weaknesses_texts_text_mk_all_mel-morale+stat	Нерегулярні війська||Відмінні здібності внаслідок похідного життя||Але недостатньо надійні	true
+unit_description_strengths_weaknesses_texts_text_shock_cav_cat	Дуже сильний натиск||Низька завдана шкода, середнє пробивання броні||Міцна броня||Найповільніша кіннота||Високий бойовий дух	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_renown+num	Прославлений загін||Відмінні здібності||Здатні вести як ближній, так і дальній бій||	true
+unit_description_strengths_weaknesses_texts_text_mk_inf_hybrid_renown-num	Прославлений загін||Відмінні здібності||Здатні вести як ближній, так і дальній бій||Рідкісний загін||Зменшена кількість бійців у загоні||Коштують недешево	true
+unit_description_strengths_weaknesses_texts_text_lft_five	Висока міцність||Середня команда||Середня швидкість||Середній таран||Середній абордаж||Відмінні стрільці	true
+unit_description_strengths_weaknesses_texts_text_lft_six	Дуже висока міцність||Великий розмір команди||Низька швидкість||Потужний таран||Дуже добрий абордаж||Погані стрільці	true

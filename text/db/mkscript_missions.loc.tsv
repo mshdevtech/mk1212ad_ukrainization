@@ -1,0 +1,94 @@
+key	text	tooltip
+#Loc;1;text/db/mkscript_missions.loc		
+missions_localised_description_mk_mission_crusades_defend_aegyptus_alexandria	Був скликаний хрестовий похід з метою завоювання Александрії. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_aegyptus_oxyrhynchus	Був скликаний хрестовий похід з метою завоювання Каїра. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_africa_carthago	Був скликаний хрестовий похід з метою завоювання Тунісу. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_aquitania_elusa	Був скликаний хрестовий похід з метою завоювання Тулузи. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_baetica_corduba	Був скликаний хрестовий похід з метою завоювання Кордови. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_britannia_superior_londinium	Був скликаний хрестовий похід з метою завоювання Лондона. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_carthaginensis_toletum	Був скликаний хрестовий похід з метою завоювання Толедо. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_germania_uburzis	Був скликаний хрестовий похід з метою завоювання Франкфурта. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_italia_roma	Був скликаний хрестовий похід з метою завоювання Риму. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_lugdunensis_turonum	Був скликаний хрестовий похід з метою завоювання Парижа. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_macedonia_thessalonica	Був скликаний хрестовий похід з метою завоювання Фессалонік. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_palaestinea_aelia_capitolina	Був скликаний хрестовий похід з метою завоювання Єрусалима. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_syria_antiochia	Був скликаний хрестовий похід з метою завоювання Антіохії. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_tarraconensis_tarraco	Був скликаний хрестовий похід з метою завоювання Барселони. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defend_thracia_constantinopolis	Був скликаний хрестовий похід з метою завоювання Константинополя. Як власник цього міста ви повинні не допустити цього. Потрібно зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_defense_cairo	З моменту завоювання Єрусалима Саладіном невірні мріяли відвоювати його назад. Хоча великий хрестовий похід в 1187 році закінчився глухим кутом, а наступний хрестовий похід в 1204 році закінчився для римлян катастрофою, невірні не відмовилися від своєї мети. Тепер вони прагнуть вторгнутися на нашу батьківщину, в Єгипет, як на плацдарм для наступу в Левант. Треба зупинити хрестоносців за будь-яку ціну.	true
+missions_localised_description_mk_mission_crusades_take_aegyptus_alexandria	Був скликаний хрестовий похід з метою завоювання Александрії. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_aegyptus_oxyrhynchus	Був скликаний хрестовий похід з метою завоювання Каїра. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_africa_carthago	Був скликаний хрестовий похід з метою завоювання Тунісу. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_aquitania_elusa	Був скликаний хрестовий похід з метою завоювання Тулузи. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_baetica_corduba	Був скликаний хрестовий похід з метою завоювання Кордови. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_britannia_superior_londinium	Був скликаний хрестовий похід з метою завоювання Лондона. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_cairo_fifth_crusade	П'ятий хрестовий похід почався з наміром знову захопити для християн Святу землю, підкоривши спочатку Єгипет. Головною метою цього хрестового походу є єгипетське місто Каїр. Як тільки це місто буде взято, все, що стоїть між нами і Святою землею, буде зруйновано!	true
+missions_localised_description_mk_mission_crusades_take_carthaginensis_toletum	Був скликаний хрестовий похід з метою завоювання Толедо. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_germania_uburzis	Був скликаний хрестовий похід з метою завоювання Франкфурта. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_italia_roma	Був скликаний хрестовий похід з метою завоювання Риму. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_jerusalem_dilemma	Його Святість попросив вас відвоювати Єрусалим для Єрусалимського королівства. Натомість ви можете залишити собі всі землі, захоплені у єретиків.	true
+missions_localised_description_mk_mission_crusades_take_lugdunensis_turonum	Був скликаний хрестовий похід з метою завоювання Парижа. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_macedonia_thessalonica	Був скликаний хрестовий похід з метою завоювання Фессалонік. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_palaestinea_aelia_capitolina	Був скликаний хрестовий похід з метою завоювання Єрусалиму. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_syria_antiochia	Був скликаний хрестовий похід з метою завоювання Антіохії. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_tarraconensis_tarraco	Був скликаний хрестовий похід з метою завоювання Барселони. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_crusades_take_thracia_constantinopolis	Був скликаний хрестовий похід з метою завоювання Константинополя. Приєднавшись до цього хрестового походу, ви тепер повинні відбити місто у іновірців.	true
+missions_localised_description_mk_mission_kingdom_armenia	Багато років тому чужоземні загарбники вторглися в землі наших предків і захопили їх. Тепер, отримавши притулок в Кілікії, ми можемо незабаром бути готовими повернути нашу батьківщину і заснувати нове Вірменське царство.	true
+missions_localised_description_mk_mission_kingdom_byzantium	Захоплення Константинополя латинянами зробило Римську імперію розбитою і ослабленою. Так більше тривати не може - Константинополь по праву належить римлянам!	true
+missions_localised_description_mk_mission_kingdom_goldenhorde	Велике трав'яне море, по якому ми мандрували, населене незліченними племенами. Їх підкорення і підтримка ними наших майбутніх завоювань забезпечить довголіття нашої династії.	true
+missions_localised_description_mk_mission_kingdom_ilkhanate	Землі, що лежать перед нами, належать стародавній цивілізації. Щоб заволодіти ними і знайти процвітання, необхідно буде скористатися їх великою мудрістю і навичками державного управління.	true
+missions_localised_description_mk_mission_kingdom_poland	Землі великих королів династії Пястів роз'єднані, а князі ревно борються один з одним за їх володіння. Як благородні спадкоємці династії, ми зобов'язані відродити велике Польське королівство! Верховенство правителя Кракова має бути відновлено!	true
+missions_localised_description_mk_mission_kingdom_spain	Королівство вестготів кануло в небуття, і ми, їхні нащадки, дивимося на Іспанію як на землю, що по праву належить нам. Відвоюймо у маврів те, що є нашим, і об’єднаймо держави, щоб створити королівство справжнього процвітання та віри.	true
+missions_localised_description_mk_mission_story_england_take_normandy	Велика ганьба спіткала Анжуйський дім, оскільки колишній бастіон нормандських королів Англії на континенті, Нормандія, впав у руки французів за правління короля Іоанна. Якщо ми хочемо, щоб анжуйців сприймали серйозно як на континенті, так і в Британії, Нормандія повинна бути відвойована назад!	true
+missions_localised_description_mk_mission_story_england_war_with_france	Королю нашіптують, що дворяни, вважаючи його слабким, влаштували змову. Король Англії повинен показати свою гідність і повернути престиж англійській короні. В останні роки Франція завдала Анжуйській династії серйозних поразок, і відповідні дії могли б втихомирити цих бунтівників, хоча б на деякий час.	true
+missions_localised_description_mk_mission_story_france_survive_invasion	Англійці напали на нас, але якщо ми зуміємо дати їм відсіч, то в англійських землях почнуться масові заворушення, які змусять їх укласти перемир'я.	true
+missions_localised_description_mk_mission_story_hre_survive_pretender	З'явився претендент на імператорський титул, претензії якого підтримуються Папою Римським. Цю загрозу можна нейтралізувати безпосередньо, але якщо він не зможе зміцнити свою владу, то, можливо, втратить підтримку серед знаті імперії.	true
+missions_localised_description_mk_mission_story_pretender_take_frankfurt	Ви вирішили заявити про свої претензії на імператорський трон, і для цього ви повинні зайняти імперську резиденцію - Франкфурт. Як альтернатива, ви могли б позбутися нинішнього імператора в битві або ж за допомогою менш благородних засобів.	true
+missions_localised_description_mk_mission_story_reconquista_spain	П'ять століть тому маври вторглися в Іспанію, чий натиск був зупинений тільки на полях Аквітанії. Хоча вторгнення у Францію було зупинено, більша частина Іспанії залишилася в руках маврів. З тих пір ситуація змінилася, оскільки християнські королівства тепер правлять половиною Піренейського півострова, а маври тепер слабкі як ніколи раніше. Зараз саме час завдати смертельного удару.	true
+missions_localised_description_mk_religious_catholic_intervention_end_war	Його Святість вимагає, щоб ви припинили проливати кров своїх братів-християн. Негайно припиніть військові дії проти цієї фракції і укладіть з нею мир, інакше Папа буде дуже незадоволений.	true
+missions_localised_title_mk_mission_crusades_defend_aegyptus_alexandria	Хрестовий похід на Александрію	true
+missions_localised_title_mk_mission_crusades_defend_aegyptus_oxyrhynchus	Хрестовий похід на Каїр	true
+missions_localised_title_mk_mission_crusades_defend_africa_carthago	Хрестовий похід на Туніс	true
+missions_localised_title_mk_mission_crusades_defend_aquitania_elusa	Хрестовий похід на Тулузу	true
+missions_localised_title_mk_mission_crusades_defend_baetica_corduba	Хрестовий похід на Кордову	true
+missions_localised_title_mk_mission_crusades_defend_britannia_superior_londinium	Хрестовий похід на Лондон	true
+missions_localised_title_mk_mission_crusades_defend_carthaginensis_toletum	Хрестовий похід на Толедо	true
+missions_localised_title_mk_mission_crusades_defend_germania_uburzis	Хрестовий похід на Франкфурт	true
+missions_localised_title_mk_mission_crusades_defend_italia_roma	Хрестовий похід на Рим	true
+missions_localised_title_mk_mission_crusades_defend_lugdunensis_turonum	Хрестовий похід на Париж	true
+missions_localised_title_mk_mission_crusades_defend_macedonia_thessalonica	Хрестовий похід на Фессалоніки	true
+missions_localised_title_mk_mission_crusades_defend_palaestinea_aelia_capitolina	Хрестовий похід на Єрусалим	true
+missions_localised_title_mk_mission_crusades_defend_syria_antiochia	Хрестовий похід на Антіохію	true
+missions_localised_title_mk_mission_crusades_defend_tarraconensis_tarraco	Хрестовий похід на Барселону	true
+missions_localised_title_mk_mission_crusades_defend_thracia_constantinopolis	Хрестовий похід на Константинополь	true
+missions_localised_title_mk_mission_crusades_defense_cairo	Хрестовий похід на Каїр	true
+missions_localised_title_mk_mission_crusades_take_aegyptus_alexandria	Хрестовий похід на Александрію	true
+missions_localised_title_mk_mission_crusades_take_aegyptus_oxyrhynchus	Хрестовий похід на Каїр	true
+missions_localised_title_mk_mission_crusades_take_africa_carthago	Хрестовий похід на Туніс	true
+missions_localised_title_mk_mission_crusades_take_aquitania_elusa	Хрестовий похід на Тулузу	true
+missions_localised_title_mk_mission_crusades_take_baetica_corduba	Хрестовий похід на Кордову	true
+missions_localised_title_mk_mission_crusades_take_britannia_superior_londinium	Хрестовий похід на Лондон	true
+missions_localised_title_mk_mission_crusades_take_cairo_fifth_crusade	Хрестовий похід на Каїр	true
+missions_localised_title_mk_mission_crusades_take_carthaginensis_toletum	Хрестовий похід на Толедо	true
+missions_localised_title_mk_mission_crusades_take_germania_uburzis	Хрестовий похід на Франкфурт	true
+missions_localised_title_mk_mission_crusades_take_italia_roma	Хрестовий похід на Рим	true
+missions_localised_title_mk_mission_crusades_take_jerusalem_dilemma	Наступ на Єрусалим	true
+missions_localised_title_mk_mission_crusades_take_lugdunensis_turonum	Хрестовий похід на Париж	true
+missions_localised_title_mk_mission_crusades_take_macedonia_thessalonica	Хрестовий похід на Фессалоніки	true
+missions_localised_title_mk_mission_crusades_take_palaestinea_aelia_capitolina	Хрестовий похід на Єрусалим	true
+missions_localised_title_mk_mission_crusades_take_syria_antiochia	Хрестовий похід на Антіохію	true
+missions_localised_title_mk_mission_crusades_take_tarraconensis_tarraco	Хрестовий похід на Барселону	true
+missions_localised_title_mk_mission_crusades_take_thracia_constantinopolis	Хрестовий похід на Константинополь	true
+missions_localised_title_mk_mission_kingdom_armenia	Царство вірмен	true
+missions_localised_title_mk_mission_kingdom_byzantium	Відновлення Візантії	true
+missions_localised_title_mk_mission_kingdom_goldenhorde	Половецькі степи	true
+missions_localised_title_mk_mission_kingdom_ilkhanate	Перське ханство	true
+missions_localised_title_mk_mission_kingdom_poland	Спадщина Пястів	true
+missions_localised_title_mk_mission_kingdom_spain	Королівство іспанців	true
+missions_localised_title_mk_mission_story_england_take_normandy	Відвоювання Нормандії	true
+missions_localised_title_mk_mission_story_england_war_with_france	Доля Анжуйської династії	true
+missions_localised_title_mk_mission_story_france_survive_invasion	Вторгнення в Нормандію	true
+missions_localised_title_mk_mission_story_hre_survive_pretender	Претендент на трон	true
+missions_localised_title_mk_mission_story_pretender_take_frankfurt	Претендент на трон	true
+missions_localised_title_mk_mission_story_reconquista_spain	Реконкіста	true
+missions_localised_title_mk_religious_catholic_intervention_end_war	Припинення військових дій	true

@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/mkscript_incidents.loc		
+incidents_localised_description_mk_incident_enemy_of_christendom	Крик обурення християнського світу	true
+incidents_localised_title_mk_incident_enemy_of_christendom	Неймовірно похмура новина. Оголошення вами війни Папській області змусило Папу згуртувати добрих християн по всьому світу проти вас. В єдиному пориві вони засуджують ваші дії. Якщо ви вирішите продовжувати йти шляхом насильства, цей конфлікт буде тільки загострюватися - в кінці кінців хвиля може повернутися і поглинути вас.	true
+incidents_localised_title_mk_incident_rome_attacked_nonchrist	Падіння Риму	true
+incidents_localised_description_mk_incident_rome_attacked_nonchrist	Цей день залишиться в історії! На Рим було скоєно напад, папський престол знову зазнав руйнівного впливу війни. Не дивно, що християни по всьому світу жахливо засмучені таким поворотом подій. Однак ваш народ завжди знав, що падіння цього фальшивого бога і його послідовників неминуче.	true
+incidents_localised_title_mk_incident_story_serbia_kingdom	Королівство Сербія	true
+incidents_localised_description_mk_incident_story_serbia_kingdom	Протягом багатьох років Великий жупан Сербії намагався домогтися від папи королівського титулу, і врешті-решт папський легат прибув, щоб коронувати правителя Сербії як короля.	true
+incidents_localised_title_mk_incident_mongol_invasion_precursor	Монгольська імперія	true
+incidents_localised_description_mk_incident_mongol_invasion_precursor	Швидко зростаюча Монгольська імперія тепер межує з державою Хорезмшахів. До вашого двору вже дійшли чутки з далеких, немов Китай, земель про жахливі звірства, що чинять монголи. Якщо ця експансіоністська держава вирішить рухатися далі на захід, то її вже не зупинити.	true
+incidents_localised_title_mk_incident_timurid_invasion_precursor	Імперія Тимуридів	true
+incidents_localised_description_mk_incident_timurid_invasion_precursor	Ходять чутки про нового полководця зі степів, який заснував могутню державу. Його погляд спрямований на захід у пошуках нових завоювань, і сам він намагається наслідувати великих ханів минулого. Було б розумно підготуватися до відбиття цієї нової загрози...	true

@@ -1,0 +1,134 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_groupings.loc		
+ui_unit_groupings_tooltip_com	Невеликі загони, які захищають полководця в пеклі бою.	true
+ui_unit_groupings_onscreen_art_siege	Облогові машини	true
+ui_unit_groupings_onscreen_att_inf_axe_land	Піхота з сокирами	true
+ui_unit_groupings_onscreen_att_cav_bow_land	Кінні лучники	true
+ui_unit_groupings_tooltip_att_special_grenade_marine	Цей загін може жбурляти в супротивника посудини з нафтою, що завдають нищівної шкоди, але через малочисельність він дуже вразливий.	true
+ui_unit_groupings_onscreen_att_art_warwagon	Бойовий візок	true
+ui_unit_groupings_onscreen_att_inf_spear_land	Піхота зі списами	true
+ui_unit_groupings_onscreen_att_cav_melee_land	Кіннота б. бою	true
+ui_unit_groupings_onscreen_att_inf_axe_naval	Штурмовий корабель	true
+ui_unit_groupings_onscreen_att_inf_bow_naval	Корабель з лучниками	true
+ui_unit_groupings_onscreen_inf_sling	Пращники	true
+ui_unit_groupings_onscreen_att_inf_axe_marine	Піхота з сокирами	true
+ui_unit_groupings_tooltip_att_inf_sling_land	Стрільці для середніх дистанцій, здатні дуже швидко перезаряджати свою зброю.	true
+ui_unit_groupings_onscreen_att_special_grenade_naval	Корабель з мет. нафтою	true
+ui_unit_groupings_onscreen_att_inf_gun_land	Піхота з вогнепальною зброєю	true
+ui_unit_groupings_tooltip_att_inf_sword_land	Бійці першої лінії завжди готові до рукопашної.	true
+ui_unit_groupings_onscreen_att_special_grenade_land	Метальники нафти	true
+ui_unit_groupings_onscreen_att_inf_bow_marine	Піхота з луками	true
+ui_unit_groupings_onscreen_ltd_medieval_tent	Намет	true
+ui_unit_groupings_onscreen_att_inf_polearm_shock_land	Ударна піхота	true
+ui_unit_groupings_onscreen_att_art_field_land	Артилерія	true
+ui_unit_groupings_tooltip_att_cav_shock_land	Вдаривши з флангу або в тил, вони розтрощать будь-яку піхоту.	true
+ui_unit_groupings_onscreen_att_inf_sling_land	Пращники	true
+ui_unit_groupings_tooltip_att_inf_axe_marine	Передовий загін, навчений рукопашному бою.	true
+ui_unit_groupings_tooltip_att_inf_bow_marine	Ці загони підтримують піхоту здалеку, але в ближньому бою ні на що не здатні.	true
+ui_unit_groupings_onscreen_att_special_transportship_naval	Вантажний корабель	true
+ui_unit_groupings_tooltip_ltd_medieval_tent	.	true
+ui_unit_groupings_onscreen_att_inf_bow_land	Піхота з луками	true
+ui_unit_groupings_onscreen_att_inf_sword_land	Піхота ближнього бою	true
+ui_unit_groupings_tooltip_att_inf_polearm_shock_land	Суворі солдати передових шеренг, озброєні чудовою бронебійною зброєю.	true
+ui_unit_groupings_tooltip_att_special_grenade_naval	Цей загін може жбурляти в супротивника посудини з нафтою, що завдають нищівної шкоди, але через малочисельність він дуже вразливий.	true
+ui_unit_groupings_onscreen_att_cav_shock_land	Ударна кіннота	true
+ui_unit_groupings_tooltip_inf_sling	placeholder	true
+ui_unit_groupings_tooltip_att_art_field_land	Метальні машини б'ють на великі відстані і завдають величезної шкоди, їх навіть можна повільно рухати по полю бою, проте вони дуже вразливі в ближньому бою.	true
+ui_unit_groupings_tooltip_att_inf_axe_naval	Передовий загін, навчений рукопашному бою.	true
+ui_unit_groupings_tooltip_att_inf_bow_naval	Ці загони підтримують піхоту здалеку, але в ближньому бою ні на що не здатні.	true
+ui_unit_groupings_tooltip_att_inf_spear_land	Важкі, добре захищені щитники відмінно витримують навіть удар кінноти.	true
+ui_unit_groupings_onscreen_att_special_grenade_marine	Метальники нафти	true
+ui_unit_groupings_tooltip_art_siege	Величезні облогові машини створені спеціально для того, щоб зносити стіни і вибивати ворота.	true
+ui_unit_groupings_tooltip_att_cav_melee_land	Це легкі, маневрені вершники. Втім, навіть щити не захистять їх від більш сильних військ.	true
+ui_unit_groupings_onscreen_shp_art	Корабель з далекобійними машинами	true
+ui_unit_groupings_tooltip_att_special_grenade_land	Цей загін може жбурляти в супротивника посудини з нафтою, що завдають нищівної шкоди, але через малочисельність він дуже вразливий.	true
+ui_unit_groupings_onscreen_carroccio	Карроччо	true
+ui_unit_groupings_onscreen_shp_trn	Вантажний корабель	true
+ui_unit_groupings_tooltip_att_inf_gun_land	Вогнепальні загони, здатні пробити будь-яку броню на середніх дистанціях, але вкрай повільно перезаряджають свою зброю.	true
+ui_unit_groupings_onscreen_art_fix	Стаціонарна далекобійна машина	true
+ui_unit_groupings_onscreen_art_fld	Далекобійна машина	true
+ui_unit_groupings_onscreen_inf_spr	Піхота зі списами	true
+ui_unit_groupings_tooltip_att_inf_sling_naval	Стрільці для середніх дистанцій, здатні дуже швидко перезаряджати свою зброю.	true
+ui_unit_groupings_tooltip_att_inf_axe_land	Передовий загін, навчений рукопашному бою.	true
+ui_unit_groupings_tooltip_att_cav_bow_land	Ці кінні лучники швидко рухаються, стріляють здалеку й завдають ворогові чимало лиха, проте стають вразливими, якщо втягнуться в ближній бій.	true
+ui_unit_groupings_tooltip_att_special_fireship_naval	Може підпалювати інші кораблі.	true
+ui_unit_groupings_tooltip_att_art_warwagon	Нерухомі вози, що утворюють нездоланний бойовий порядок.	true
+ui_unit_groupings_tooltip_att_special_greek_fire_land	Вивергаючи полум'я, яке неможливо загасити, ці загони здатні спалити будь-якого ворога дотла, прирікаючи його на мученицьку смерть. Однак, вони нечисленні і не здатні взяти з собою велику кількість палива.	true
+ui_unit_groupings_tooltip_att_inf_pike_land	Завдяки довгим пікам вони майже незнищенні при атаці в лоб, але вразливі, якщо зайти до них у фланг. Виключно ефективні в бою проти кінноти.	true
+ui_unit_groupings_onscreen_cav_mis	Стрільці-вершники	true
+ui_unit_groupings_onscreen_att_inf_crossbow_marine	Піхота з арбалетами	true
+ui_unit_groupings_onscreen_cav_shk	Ударна кіннота	true
+ui_unit_groupings_onscreen_att_inf_pike_land	Піхота з піками	true
+ui_unit_groupings_onscreen_att_special_fireship_naval	Підпал. корабель	true
+ui_unit_groupings_onscreen_inf_mel	Піхота ближнього бою	true
+ui_unit_groupings_onscreen_att_art_scorpio	Скорпіон	true
+ui_unit_groupings_onscreen_shp_mel	Корабель ближнього бою	true
+ui_unit_groupings_onscreen_att_special_wardog_land	Бойові собаки	true
+ui_unit_groupings_onscreen_shp_mis	Стрілецький корабель	true
+ui_unit_groupings_tooltip_att_inf_bow_land	Ці загони підтримують піхоту здалеку, але в ближньому бою ні на що не здатні.	true
+ui_unit_groupings_onscreen_cav_mel	Кіннота б. бою	true
+ui_unit_groupings_tooltip_att_inf_sword_naval	Бійці першої лінії завжди готові до рукопашної.	true
+ui_unit_groupings_tooltip_carroccio	.	true
+ui_unit_groupings_tooltip_att_art_field_naval	Метальні машини б'ють на великі відстані і завдають величезної шкоди, їх навіть можна повільно рухати по полю бою, проте вони дуже вразливі в ближньому бою.	true
+ui_unit_groupings_onscreen_inf_pik	Піхота з піками	true
+ui_unit_groupings_onscreen_chariot	Колісниця	true
+ui_unit_groupings_onscreen_inf_mis	Стрільці-піхотинці	true
+ui_unit_groupings_tooltip_elph	Ніхто краще за слона не розкидає ворожі ряди. Кращий спосіб зупинити слонів - закидати їх палаючими снарядами і дротиками.	true
+ui_unit_groupings_onscreen_att_inf_crossbow_naval	Корабель з арбалетниками	true
+ui_unit_groupings_tooltip_att_special_transportship_naval	Повільні, але місткі, вони відмінно справляються зі своїм завданням. Головне - пам'ятати, що це не бойові кораблі.	true
+ui_unit_groupings_tooltip_att_cav_javelin_land	Ці кінні лучники швидко рухаються, влучно стріляють на ближніх дистанціях і приносять ворогу безліч бід, проте стають слабкими, вплутавшись у рукопашний бій.	true
+ui_unit_groupings_onscreen_att_inf_pike_bow_land	Піхота з піками і луками	true
+ui_unit_groupings_tooltip_att_inf_sling_marine	Стрільці для середніх дистанцій, здатні дуже швидко перезаряджати свою зброю.	true
+ui_unit_groupings_tooltip_att_inf_crossbow_land	Стрільці, здатні пробити будь-яку броню на середніх дистанціях, але вкрай повільно перезаряджають свою зброю.	true
+ui_unit_groupings_tooltip_att_cav_crossbow_land	Ці кінні лучники швидко рухаються, влучно стріляють на середніх дистанціях і завдають ворогу безліч біди, проте стають слабкими, якщо втягнуться в ближній бій.	true
+ui_unit_groupings_tooltip_att_cav_elephant_land	Ніхто краще за слона не розкидає ворожі ряди. Найкращий спосіб зупинити слонів - закидати їх палаючими снарядами і дротиками.	true
+ui_unit_groupings_tooltip_att_inf_polearm_land	Завдяки древковій зброї вони майже нездоланні при фронтальній атаці, але вразливі до ударів з флангів. Надзвичайно ефективні в бою проти кінноти.	true
+ui_unit_groupings_tooltip_att_inf_sword_marine	Бійці першої лінії завжди готові до рукопашної.	true
+ui_unit_groupings_tooltip_spcl	Здивуйте ваших ворогів дикими тваринами.	true
+ui_unit_groupings_onscreen_att_cav_elephant_land	Слони	true
+ui_unit_groupings_onscreen_att_cav_crossbow_land	Кіннота з арбалетами	true
+ui_unit_groupings_onscreen_att_inf_crossbow_land	Піхота з арбалетами	true
+ui_unit_groupings_tooltip_att_inf_javelin_land	Стрільці, здатні завдати виключно високої шкоди на коротких дистанціях.	true
+ui_unit_groupings_onscreen_com	Командування	true
+ui_unit_groupings_tooltip_att_inf_pike_bow_land	Солдати «подвійного призначення», здатні як битися в передніх рядах, так і обстрілювати ворога здалеку.	true
+ui_unit_groupings_tooltip_att_inf_crossbow_naval	Стрільці, здатні пробити будь-яку броню на середніх дистанціях, але вкрай повільно перезаряджають свою зброю.	true
+ui_unit_groupings_onscreen_att_inf_sling_marine	Пращники	true
+ui_unit_groupings_onscreen_att_cav_shock_bow_land	Стрілецька ударна кіннота	true
+ui_unit_groupings_tooltip_att_special_wardog_land	Бойові собаки становлять серйозну загрозу для воїнів у легких обладунках.	true
+ui_unit_groupings_tooltip_shp_mel	Ідеальний абордажний корабель. Щоб досягти успіху, йому спершу треба наздогнати жертву.	true
+ui_unit_groupings_onscreen_att_inf_javelin_naval	Корабель із застрільниками	true
+ui_unit_groupings_tooltip_att_art_scorpio	Метальні машини б'ють на великі відстані і завдають величезної шкоди, їх навіть можна повільно рухати по полю бою, проте вони дуже вразливі в ближньому бою.	true
+ui_unit_groupings_tooltip_inf_mel	Бійці першої лінії завжди готові до рукопашної.	true
+ui_unit_groupings_onscreen_att_inf_sword_bow_land	Стрілецька піхота ближнього бою	true
+ui_unit_groupings_onscreen_att_special_ram_naval	Таранний корабель	true
+ui_unit_groupings_onscreen_att_inf_polearm_land	Піхота з древковою зброєю	true
+ui_unit_groupings_tooltip_cav_shk	Вдаривши з флангу або в тил, вони розтрощать будь-яку піхоту.	true
+ui_unit_groupings_tooltip_att_inf_crossbow_marine	Стрільці, здатні пробити будь-яку броню на середніх дистанціях, але вкрай повільно перезаряджають свою зброю.	true
+ui_unit_groupings_onscreen_att_inf_sword_marine	Піхота ближнього бою	true
+ui_unit_groupings_tooltip_cav_mis	Кінні лучники швидко рухаються, мають велику дальність стрільби й завдають ворогові чимало шкоди, однак стають уразливими в ближньому бою.	true
+ui_unit_groupings_tooltip_inf_pik	Завдяки довгим пікам вони майже нездоланні при атаці в лоб, але вразливі, якщо зайти до них у фланг. Виключно ефективні в бою проти кінноти.	true
+ui_unit_groupings_tooltip_chariot	Стрімкі загони з великим радіусом розвороту. Прорізають ряди ворога як масло, але загрузнувши в ближньому бою, стають вразливими.	true
+ui_unit_groupings_tooltip_inf_mis	Ці загони підтримують піхоту здалеку, але в ближньому бою ні на що не здатні.	true
+ui_unit_groupings_onscreen_elph	Слони	true
+ui_unit_groupings_onscreen_att_art_field_naval	Корабель з арт. знаряддями	true
+ui_unit_groupings_tooltip_cav_mel	Це легкі, маневрені вершники. Втім, навіть щити не захистять їх від більш сильних військ.	true
+ui_unit_groupings_tooltip_att_inf_spear_bow_land	Солдати «подвійного призначення», здатні як битися в передніх рядах, так і обстрілювати ворога здалеку.	true
+ui_unit_groupings_onscreen_att_inf_sword_naval	Корабель ближнього бою	true
+ui_unit_groupings_onscreen_att_cav_javelin_land	Кінні застрільники	true
+ui_unit_groupings_tooltip_shp_mis	Вони можуть обрушити на ворога град стріл і снарядів, але в ближньому бою вони беззахисні.	true
+ui_unit_groupings_onscreen_att_inf_javelin_marine	Застрільники	true
+ui_unit_groupings_onscreen_att_inf_sling_naval	Корабель з пращниками	true
+ui_unit_groupings_tooltip_art_fld	Метальні машини б'ють на великі відстані і завдають величезної шкоди, їх навіть можна повільно рухати по полю бою, проте вони дуже вразливі в ближньому бою.	true
+ui_unit_groupings_tooltip_inf_spr	Важкі, добре захищені щитники відмінно витримують навіть удар кінноти.	true
+ui_unit_groupings_onscreen_att_inf_spear_bow_land	Піхота зі списами і луками	true
+ui_unit_groupings_tooltip_art_fix	Кілька стаціонарних метальних машин можуть завдати нищівної шкоди, в ближньому бою вони вкрай слабкі.	true
+ui_unit_groupings_tooltip_shp_art	Здалеку ці кораблі можуть завдати важкої шкоди, але проти тарана або абордажної команди вони безсилі.	true
+ui_unit_groupings_tooltip_shp_trn	Повільні, але місткі, вони відмінно справляються зі своїм завданням. Головне - пам'ятати, що це не бойові кораблі.	true
+ui_unit_groupings_tooltip_att_inf_javelin_marine	Стрільці, здатні завдати виключно високої шкоди на коротких дистанціях.	true
+ui_unit_groupings_tooltip_att_cav_shock_bow_land	Умілі вершники, здатні як вести дальній бій, так і орудувати пікою, змітаючи ворожі порядки.	true
+ui_unit_groupings_onscreen_att_special_greek_fire_land	Метальники грец. вогню	true
+ui_unit_groupings_onscreen_spcl	Особлива бойова одиниця	true
+ui_unit_groupings_tooltip_att_special_ram_naval	Повний вперед!	true
+ui_unit_groupings_onscreen_att_inf_javelin_land	Застрільники	true
+ui_unit_groupings_tooltip_att_inf_javelin_naval	Стрільці, здатні завдати виключно високої шкоди на коротких дистанціях.	true
+ui_unit_groupings_tooltip_att_inf_sword_bow_land	Солдати «подвійного призначення», здатні як битися в передніх рядах, так і обстрілювати ворога здалеку.	true

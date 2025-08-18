@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/abilities.loc		
+abilities_on_screen_description_hinder_agent	Затримуйте ворожих агентів або переконуйте їх перейти на ваш бік.	true
+abilities_on_screen_description_command_force	 	true
+abilities_on_screen_description_assist_army	Використовуйте особливі таланти свого агента, щоб підвищити ефективність армії.	true
+abilities_on_screen_description_hinder_army	Знижуйте бойову ефективність ворожої армії або затримуйте її на мапі кампанії.	true
+abilities_on_screen_name_hinder_agent	Маніпуляція агентом	true
+abilities_on_screen_name_hinder_army	Перешкоди армії	true
+abilities_on_screen_name_hinder_settlement	Шкода поселенню	true
+abilities_on_screen_name_assist_army	Підтримка армії	true
+abilities_on_screen_description_hinder_settlement	Втручайтеся в повсякденне життя ворожої колонії.	true
+abilities_on_screen_name_hinder_province	Шкода провінції	true
+abilities_on_screen_name_assist_province	Допомога провінції	true
+abilities_on_screen_name_hinder_character	Замовне вбивство	true
+abilities_on_screen_name_passive_ability	 	true
+abilities_on_screen_description_assist_province	Використовуйте особливі таланти свого агента, щоб підвищити ефективність провінції.	true
+abilities_on_screen_description_passive_ability	 	true
+abilities_on_screen_name_command_force	 	true
+abilities_on_screen_description_hinder_character	Вкажіть ворожого персонажа, якого потрібно вбити.	true
+abilities_on_screen_description_hinder_province	Використовуйте особливі таланти свого агента, щоб знизити ефективність провінції.	true
