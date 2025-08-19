@@ -1013,7 +1013,7 @@ uied_component_texts_localised_string_region_name_contested_Tooltip_22004d	Сп�
 uied_component_texts_localised_string_region_growth_inactive_Tooltip_54000e	Зростання регіону - недоступно для орди.	true
 uied_component_texts_localised_string_TX_save_game_Save_Text_2e0001	Збереження	true
 uied_component_texts_localised_string_battle_type_siege_Text_5e0009	Облога	true
-uied_component_texts_localised_string_txt_gate_damage_NewState_Text_4a0076	Збиток воротам:	true
+uied_component_texts_localised_string_txt_gate_damage_NewState_Text_4a0076	Шкода воротам:	true
 uied_component_texts_localised_string_balance_of_power_NewState_Text_70005a	Баланс сил:	true
 uied_component_texts_localised_string_status_not_ready_Text_730050	Чекаємо гравця	true
 uied_component_texts_localised_string_action_points_Tooltip_770002	Очки дій||Жовтий індикатор показує, скільки очок дій залишилося у армії або флоту. Якщо його шкала порожня, армія не зможе пересуватися до початку наступного ходу.	true
@@ -1141,10 +1141,10 @@ uied_component_texts_localised_string_text_panel_NewState_Text_7c001e	Натис
 uied_component_texts_localised_string_tab_title_NewState_Text_18002d	Відео	true
 uied_component_texts_localised_string_tx_header_NewState_Text_1a0046	Ключ до родоводу	true
 uied_component_texts_localised_string_button_dismiss_Tooltip_39005d	Відмовитися від атаки	true
-uied_component_texts_localised_string_txt_title_NewState_Text_31000d	Збиток поселенню:	true
+uied_component_texts_localised_string_txt_title_NewState_Text_31000d	Шкода поселенню:	true
 uied_component_texts_localised_string_tx_edicts_NewState_Text_41001b	Кількість провінційних едиктів, які ви можете видати за хід:	true
 uied_component_texts_localised_string_button_agents_Tooltip_480060	Найняти агента||Найняти воїна, жерця або розвідника, який буде служити вам.	true
-uied_component_texts_localised_string_txt_damage_NewState_Text_65004e	Збиток:	true
+uied_component_texts_localised_string_txt_damage_NewState_Text_65004e	Шкода:	true
 uied_component_texts_localised_string_button_tx_marriage_Text_390076	Влаштувати шлюб	true
 uied_component_texts_localised_string_auto_trigger_icon_active_Tooltip_2c0031	Автозастосування увімкнено||Клацніть ПКМ на кнопці, щоб увімкнути або вимкнути автозастосування цієї навички для вибраного загону.	true
 uied_component_texts_localised_string_sort_action_points_selected_up_Tooltip_500050	За очками дій	true
@@ -1541,7 +1541,7 @@ uied_component_texts_localised_string_icon_public_order_happy_Tooltip_740031	П�
 uied_component_texts_localised_string_tx_battle_options_NewState_Text_590076	Налаштування битви	true
 uied_component_texts_localised_string_label_txt_NewState_Text_780067	Пора року:	true
 uied_component_texts_localised_string_regions_NewState_Text_350046	Провінції:	true
-uied_component_texts_localised_string_button_txt_naval_Text_340064	Завдані збитки	true
+uied_component_texts_localised_string_button_txt_naval_Text_340064	Завдана шкода	true
 uied_component_texts_localised_string_dy_chance_moderate_Tooltip_d0076	Можливо, вони приймуть цю угоду.	true
 uied_component_texts_localised_string_Family_Tooltip_600036	На вкладці «Сім'я» ви можете переглядати родовід і здійснювати політичні дії.	true
 uied_component_texts_localised_string_action_points_NewState_Tooltip_410010	Очки дій||Жовтий індикатор показує, скільки очок дій залишилося у армії або флоту. Якщо його шкала порожня, армія не зможе пересуватися до початку наступного ходу.	true
@@ -2126,7 +2126,7 @@ uied_component_texts_localised_string_text_active_Text_a0000	Назад!	true
 uied_component_texts_localised_string_bitrate_slider_NewState_Text_6f0032	Швидкість передачі:	true
 uied_component_texts_localised_string_tx_total_koku_trade_NewState_Text_90038	Всього доходів від торгівлі	true
 uied_component_texts_localised_string_time_label_Tooltip_3e002a	Через встановлений час почнеться битва, яка буде вестися за правилами за замовчуванням. ||Кнопка гри за замовчуванням виділена підсвічуванням.	true
-uied_component_texts_localised_string_damage_NewState_Text_65004e	Збиток:	true
+uied_component_texts_localised_string_damage_NewState_Text_65004e	Шкода:	true
 uied_component_texts_localised_string_merch_type_satrapy_Tooltip_3f0024	Загін з маріонеткової держави||Перебуваючи на території своєї маріонеткової держави, ви можете набирати її війська до своєї армії.	true
 uied_component_texts_localised_string_StatusIcon_Withdraw_Tooltip_6a0028	Відступ	true
 uied_component_texts_localised_string_title_NewState_Text_2b0039	Важкі кораблі	true
@@ -2241,7 +2241,7 @@ uied_component_texts_localised_string_Level_1_Tooltip_4c0043c	1-й ранг пе
 uied_component_texts_localised_string_tx_slave_bonus_NewState_Text_4b0068	> Іммігранти	true
 uied_component_texts_localised_string_tx_agents_recruited_NewState_Text_e006b	Агентів найнято	true
 uied_component_texts_localised_string_row_header_tx_expenses_Text_1d003e	Витрати	true
-uied_component_texts_localised_string_txt_gate_fire_damage_NewState_Text_780071	Збиток від вогню:	true
+uied_component_texts_localised_string_txt_gate_fire_damage_NewState_Text_780071	Шкода від вогню:	true
 uied_component_texts_localised_string_tx_public_order_NewState_Text_23006cm	[[url:/manual/single-player/0044a_enc_page_campaign_play_province_public_order]]Громадський порядок[[/url]]	true
 uied_component_texts_localised_string_title_NewState_Text_67003b	Зміни за хід	true
 uied_component_texts_localised_string_title_NewState_Text_6d0031	Зростання для надлишків населення	true
